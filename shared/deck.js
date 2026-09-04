@@ -236,8 +236,16 @@
     if (q){ openWhy(q.dataset.why, q.dataset.word); e.stopPropagation(); return; }
     const sb = t.closest('.spkbtn');
     if (sb){ speak(sb.dataset.say, sb); e.stopPropagation(); return; }
+    const sp2 = t.closest('.sspk');
+    if (sp2){ speak(sp2.dataset.say, sp2); e.stopPropagation(); return; }
     const hi = t.closest('.helper .item.q, .helper .sent, .helper .chain .w');
-    if (hi){ hi.classList.toggle('rev'); if (hi.classList.contains('w')) { hi.parentElement.querySelectorAll('.w').forEach(x=>x.classList.remove('cur')); hi.classList.add('rev'); hi.classList.add('cur'); const big = hi.closest('.helper').querySelector('.big'); if (big) big.innerHTML = hi.innerHTML; } e.stopPropagation(); return; }
+    if (hi){
+      if (hi.classList.contains('w')){ hi.parentElement.querySelectorAll('.w').forEach(x=>x.classList.remove('cur')); hi.classList.add('rev'); hi.classList.add('cur'); const big = hi.closest('.helper').querySelector('.big'); if (big) big.innerHTML = hi.innerHTML; e.stopPropagation(); return; }
+      if (!hi.classList.contains('rev')){ hi.classList.add('rev'); e.stopPropagation(); return; }
+      // already revealed: read it aloud (sentences and spelling words; not sound strings like /m/ /ŏ/)
+      const say = hi.dataset.say || (hi.querySelector('.ans') && hi.querySelector('.ans').dataset.say) || hi.textContent;
+      if (say && !/\//.test(say)) speak(say, hi);
+      e.stopPropagation(); return; }
     if (t.closest('.helper.ad')){ next(); e.stopPropagation(); return; }
     if (t.closest('#viewport')){ if (e.clientX < window.innerWidth*0.15) prev(); else next(); }
   });
@@ -259,7 +267,9 @@
       case 'm': case 'M': menu.classList.toggle('open'); break;
       case 'd': case 'D': setDetails(!details); break;
       case 'h': case 'H': showHint(); break;
-      case 's': case 'S': { const s = slides[cur]; const el = s.querySelector('.spk, .spkbtn'); if (el) speak(el.dataset.say || el.textContent, el); break; }
+      case 's': case 'S': { const s = slides[cur]; const h = s.querySelector('.helper');
+        if (h && h.querySelector('.sspk')){ const revs = [...h.querySelectorAll('.sent.rev, .item.q.rev')]; const target = revs.length ? revs[revs.length-1] : h.querySelector('.sent, .item.q'); const say = target && (target.dataset.say || (target.querySelector('.ans') && target.querySelector('.ans').dataset.say)); if (say) speak(say, target.classList.contains('rev') ? target : target.querySelector('.sspk') || target); break; }
+        const el = s.querySelector('.spk, .spkbtn'); if (el) speak(el.dataset.say || el.textContent, el); break; }
       case 'e': case 'E': { const g = slides[cur].querySelector('.gr'); if (g){ openGrapheme(g); grPopShown = true; } break; }
       case 'r': case 'R': { const s = slides[cur]; const h = s.querySelector('.helper.ad'); if (h) adReset(h); s.querySelectorAll('.rev').forEach(x => x.classList.remove('rev')); s.querySelectorAll('.cur').forEach(x=>x.classList.remove('cur')); const big=s.querySelector('.big'); if (big) big.innerHTML=''; k = 0; grPopShown = false; pop.classList.remove('open'); applyState(s, 0); break; }
       case 'a': case 'A': { const s = slides[cur]; const h = s.querySelector('.helper.ad'); if (h) adAll(h); s.querySelectorAll('.helper .item.q, .helper .sent, .helper .chain .w').forEach(x => x.classList.add('rev')); k = stepsOf(s); applyState(s, k); break; }

@@ -446,12 +446,13 @@ def _split_item(s):
     m = re.match(r'^(.*?)\s*\((.*?)\)\s*(.*)$', s)
     if m: return (m.group(1).strip(), (m.group(2) + (' ' + m.group(3) if m.group(3) else '')).strip())
     return (s, '')
-def helper_items(title, subtitle, items, swap=False, cols=2, foot=''):
+def helper_items(title, subtitle, items, swap=False, cols=2, foot='', speak=False):
     rows = []
     for it in items:
         p, a = _split_item(it)
         if swap: p, a = a, p
-        rows.append(f'<div class="item q"><span>{esc(p)}</span><span class="ans">{esc(a)}</span></div>')
+        btn = f'<button class="sspk" data-say="{esc(a)}" title="Listen (does not reveal)">🔊</button>' if speak else ''
+        rows.append(f'<div class="item q"><span>{esc(p)}</span><span class="ans" data-say="{esc(a)}">{esc(a)}</span>{btn}</div>')
     return f'<div class="helper"><span class="badge">HELPER · 도우미</span><h1>{esc(title)}</h1><h2>{esc(subtitle)}</h2><div class="grid" style="grid-template-columns:repeat({cols},1fr)">{"".join(rows)}</div><div class="foot">{esc(foot)}  ·  → or click = reveal next · A = reveal all · R = reset</div></div>'
 def _diff_mark(prev, cur):
     if not prev: return esc(cur)
@@ -475,7 +476,8 @@ def helper_chain(title, subtitle, chain, foot=''):
         prev = w2
     return f'<div class="helper"><span class="badge">HELPER · 도우미</span><h1>{esc(title)}</h1><h2>{esc(subtitle)}</h2><div class="big"></div><div class="chain">{"<span class=arrow>→</span>".join(spans)}</div><div class="foot">{esc(foot)}  ·  → or click a word = next word · ← = back · A = show all · R = reset</div></div>'
 def helper_sentences(title, subtitle, sents, foot=''):
-    return f'<div class="helper"><span class="badge">HELPER · 도우미</span><h1>{esc(title)}</h1><h2>{esc(subtitle)}</h2>' + ''.join(f'<div class="sent">{esc(s)}</div>' for s in sents) + f'<div class="foot">{esc(foot)}  ·  → or click = reveal next sentence · A = all · R = reset</div></div>'
+    rows = ''.join(f'<div class="sent-row"><button class="sspk" data-say="{esc(s)}" title="Listen (does not reveal)">🔊</button><div class="sent spkable" data-say="{esc(s)}">{esc(s)}</div></div>' for s in sents)
+    return f'<div class="helper"><span class="badge">HELPER · 도우미</span><h1>{esc(title)}</h1><h2>{esc(subtitle)}</h2>{rows}<div class="foot">{esc(foot)}  ·  🔊 = listen without revealing · → = reveal next · click a revealed sentence = read it aloud · S = read · A = all · R = reset</div></div>'
 def helper_grid_board(bd):
     grid = bd.get('grid') or {}
     cols = ''.join(f'<div class="item" style="flex-direction:column;align-items:flex-start;font-size:22px;min-height:0"><b style="font-size:14px;color:#5b6b7f;text-transform:uppercase;letter-spacing:.08em">{k}</b><div>{" ".join(f"<span style=\'display:inline-block;border:2px solid #cfd6de;border-radius:8px;padding:0 8px;margin:2px\'>{esc(t)}</span>" for t in grid.get(k, []) if t)}</div></div>' for k in ('initial','medial','final'))
@@ -497,7 +499,7 @@ def build_helpers(plan):
     sp = plan.get('spell') or {}
     if sp.get('ido') or sp.get('wedo'):
         items = [f"I do ({w})" for w in sp.get('ido', [])] + [f"We do ({w})" for w in sp.get('wedo', [])]
-        H['before_notes'].append((r'Step 5 for words to spell', helper_items('Spell', 'Teacher says the word; student segments and writes it. Click to check.', items, cols=2, foot='Step 5 · Elkonin boxes or Pound-and-Sound')))
+        H['before_notes'].append((r'Step 5 for words to spell', helper_items('Spell', 'Teacher (or 🔊) says the word; student segments and writes it. → reveals the word to check.', items, cols=2, foot='Step 5 · Elkonin boxes or Pound-and-Sound', speak=True)))
     ww = plan.get('ww')
     if ww:
         parts = []

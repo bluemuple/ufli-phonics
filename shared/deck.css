@@ -130,3 +130,13 @@ table.tbl td .cell{display:flex;flex-direction:column;height:100%}
 .helper.ad .gch.rev,.helper.ad .gex.rev{visibility:visible}
 .helper.ad .gex mark{background:none;color:var(--ufli-red);font-weight:700}
 .helper.ad .gex span{cursor:pointer}
+
+/* ---- speaker buttons in helpers (added) ---- */
+.helper .sent-row{display:flex;align-items:center;gap:14px;margin-bottom:12px}
+.helper .sent-row .sent{flex:1;margin-bottom:0}
+.helper .sspk{flex:none;width:56px;height:56px;border-radius:50%;border:2px solid var(--ufli-blue);background:#fff;color:var(--ufli-blue);font-size:24px;cursor:pointer;display:flex;align-items:center;justify-content:center;visibility:visible}
+.helper .sspk:hover{background:#eaf2fb}
+.helper .sspk.speaking{outline:4px solid rgba(58,169,164,.75)}
+.helper .item .sspk{width:44px;height:44px;font-size:19px;margin-left:8px}
+.helper .item.rev .ans{cursor:pointer}
+.helper .sent.rev{cursor:pointer}
