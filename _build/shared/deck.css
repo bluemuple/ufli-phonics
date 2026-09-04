@@ -8,7 +8,7 @@
 html,body{margin:0;height:100%;background:#12161c;color:var(--ui-text);font-family:"Century Gothic","Didact Gothic","Futura","Avenir Next",system-ui,sans-serif;overflow:hidden}
 #stage{position:absolute;inset:0;display:flex;align-items:center;justify-content:center}
 #viewport{position:relative;width:1000px;height:750px;transform-origin:center center;background:#fff;box-shadow:0 0 0 1px #000,0 20px 60px rgba(0,0,0,.6)}
-.slide{position:absolute;inset:0;display:none;overflow:hidden;background:#fff}
+.slide{position:absolute;inset:0;display:none;overflow:hidden;background:#fff;color:#000}
 .slide.active{display:block}
 .slide .bg{position:absolute;inset:0;width:100%;height:100%;object-fit:fill;pointer-events:none}
 .sh{position:absolute;white-space:pre-wrap;word-wrap:break-word;line-height:1.2}

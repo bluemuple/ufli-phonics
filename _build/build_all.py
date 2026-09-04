@@ -15,10 +15,11 @@ FONTSRC = '/Applications/Microsoft PowerPoint.app/Contents/Resources/DFonts'
 for src, dst in (('Century Gothic.ttf','CenturyGothic.ttf'),('Century Gothic Bold.ttf','CenturyGothic-Bold.ttf'),('Century Gothic Italic.ttf','CenturyGothic-Italic.ttf'),('Century Gothic Bold Italic.ttf','CenturyGothic-BoldItalic.ttf')):
     sp, dp = os.path.join(FONTSRC, src), os.path.join(OUT, 'fonts', dst)
     if os.path.exists(sp) and not os.path.exists(dp): shutil.copy(sp, dp)
-if os.path.abspath(os.path.join(S, 'out', 'assets')) != os.path.abspath(os.path.join(OUT, 'assets')):
-    for f in os.listdir(os.path.join(S, 'out', 'assets')):
+_ASRC = os.path.join(S, 'out', 'assets')
+if os.path.isdir(_ASRC) and os.path.abspath(_ASRC) != os.path.abspath(os.path.join(OUT, 'assets')):
+    for f in os.listdir(_ASRC):
         dp = os.path.join(OUT, 'assets', f)
-        if not os.path.exists(dp): shutil.copy(os.path.join(S, 'out', 'assets', f), dp)
+        if not os.path.exists(dp): shutil.copy(os.path.join(_ASRC, f), dp)
 plans = plan_build.build_all()
 json.dump(plans, open(os.path.join(S, 'plans_all.json'), 'w'), ensure_ascii=False)
 # ---- decks ----
