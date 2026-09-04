@@ -1,0 +1,227 @@
+{
+ "id": "119",
+ "source": "119__119_Slides_UFLIFoundations_AUS.pptx",
+ "nslides": 92,
+ "title": "Lesson 119 -sion, -tion",
+ "concept": "-sion, -tion",
+ "graphemes": [
+  "ch",
+  "gn",
+  "gh",
+  "c",
+  "g",
+  "ough",
+  "ew",
+  "eu",
+  "ue",
+  "ou",
+  "ei",
+  "eigh",
+  "ey",
+  "aigh",
+  "air",
+  "are",
+  "ear",
+  "our",
+  "or",
+  "ar",
+  "-ed"
+ ],
+ "concept_slides": [
+  {
+   "n": 37,
+   "texts": [
+    "Syllables",
+    "Words or word parts with one vowel sound."
+   ],
+   "notes": ""
+  },
+  {
+   "n": 38,
+   "texts": [
+    "Final Stable Syllables",
+    "__ le",
+    "apple",
+    "puzzle"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 39,
+   "texts": [
+    "Final Stable Syllables",
+    "-sion",
+    "-tion"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 40,
+   "texts": [
+    "-sion",
+    "vision",
+    "diversion"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 41,
+   "texts": [
+    "-sion",
+    "passion",
+    "extension"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 42,
+   "texts": [
+    "-tion",
+    "fiction",
+    "question"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 43,
+   "texts": [
+    "ro",
+    "ta",
+    "tion"
+   ],
+   "notes": "**display in slideshow mode for animations"
+  },
+  {
+   "n": 54,
+   "texts": [
+    "Syllables",
+    "Words or word parts with one vowel sound."
+   ],
+   "notes": ""
+  },
+  {
+   "n": 55,
+   "texts": [
+    "Final Stable Syllables",
+    "__ le",
+    "apple",
+    "puzzle"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 56,
+   "texts": [
+    "Final Stable Syllables",
+    "-sion",
+    "-tion"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 57,
+   "texts": [
+    "-sion",
+    "vision",
+    "diversion"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 58,
+   "texts": [
+    "-sion",
+    "passion",
+    "extension"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 59,
+   "texts": [
+    "-tion",
+    "fiction",
+    "question"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 60,
+   "texts": [
+    "ro",
+    "ta",
+    "tion"
+   ],
+   "notes": "**display in slideshow mode for animations"
+  }
+ ],
+ "read_words": [
+  "division",
+  "fraction",
+  "portion",
+  "section",
+  "question",
+  "invasion",
+  "vision",
+  "decision",
+  "confusion",
+  "equation"
+ ],
+ "review_words": [
+  "nation",
+  "portion",
+  "vision",
+  "question"
+ ],
+ "irregular_review": [
+  {
+   "word": "guess",
+   "notes": "Lesson 117+\nUE represents the /ĕ/ sound, or U is silent.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "guest",
+   "notes": "Lesson 117+\nUE represents the /ĕ/ sound, or U is silent.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "guide",
+   "notes": "Lesson 117+\nUI represents the /ī/ sound, or U is silent.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "young",
+   "notes": "Lesson 118+\nOU represents the /ŭ/ sound.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "touch",
+   "notes": "Lesson 118+\nOU represents the /ŭ/ sound.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  }
+ ],
+ "irregular_teach": [
+  {
+   "word": "enough",
+   "notes": "Lesson 119+\nIn some dialects, E represents /ī/ or /ə/ sound. \nOU represents the /ŭ/ sound.\nGH represents the /f/ sound.\nAlternatively, O represents the /ŭ/ sound, and UGH represents the /f/ sound.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "tough",
+   "notes": "Lesson 119+\nOU represents the /ŭ/ sound.\nGH represents the /f/ sound.\nAlternatively, O represents the /ŭ/ sound, and UGH represents the /f/ sound\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "rough",
+   "notes": "Lesson 119+\nOU represents the /ŭ/ sound.\nGH represents the /f/ sound.\nAlternatively, O represents the /ŭ/ sound, and UGH represents the /f/ sound\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  }
+ ],
+ "sentences": [
+  "It is time for an excursion because we\nhave worked enough.",
+  "They are on a mission to stop the invasion!",
+  "Reading fiction and watching television are my passions."
+ ],
+ "passage_title": "The Audition",
+ "passage": [
+  "Today is a big day for Matilda. The theatre club is holding auditions for the school play. Acting is Matilda’s passion. She is auditioning for the lead role. This year’s play is about a mission to outer space. It is packed with action and ends with a real explosion!",
+  "Matilda walked into the theatre club meeting. She excitedly handed her permission slip to the director and found a seat. She listened as the director explained how the audition would work.\n“Remember to be creative and use your imaginations. Any questions before we begin?”",
+  "No questions. Everyone was ready to begin. The students took turns auditioning for the director. There was a lot of competition, but Matilda did a great job! Once the auditions were finished, the director announced the parts.",
+  "“This was a tough decision,” she said. “You each made a great impression. The lead role goes to... Matilda!” Matilda leaped out of her seat with joy. Her friends clapped for her. She could not wait to run home and start memorising her lines."
+ ],
+ "word_work": [],
+ "tables": [],
+ "placement": []
+}

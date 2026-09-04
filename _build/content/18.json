@@ -1,0 +1,141 @@
+{
+ "id": "18",
+ "source": "18__18_Slides_UFLIFoundations_AUS.pptx",
+ "nslides": 80,
+ "title": "Lesson 18 e /ĕ/",
+ "concept": "e /ĕ/",
+ "graphemes": [
+  "b",
+  "g",
+  "u",
+  "c",
+  "d",
+  "o",
+  "n",
+  "i",
+  "f",
+  "p",
+  "t",
+  "s",
+  "m",
+  "a"
+ ],
+ "concept_slides": [
+  {
+   "n": 30,
+   "texts": [
+    "e"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 33,
+   "texts": [
+    "e"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 49,
+   "texts": [
+    "e"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 52,
+   "texts": [
+    "e"
+   ],
+   "notes": ""
+  }
+ ],
+ "read_words": [
+  "men",
+  "set",
+  "fed",
+  "ten",
+  "get",
+  "bed",
+  "pet",
+  "beg",
+  "pen",
+  "bet"
+ ],
+ "review_words": [
+  "ten",
+  "get",
+  "set",
+  "men"
+ ],
+ "irregular_review": [
+  {
+   "word": "and",
+   "notes": "Lessons 13+\nThis temporarily irregular word is now decodable because nasalized A and D /d/ have been introduced. \nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "a",
+   "notes": "Lesson 7+\nA as a word can be pronounced /ā/ or /ŭ/.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "is",
+   "notes": "Lessons 9-20\n*Temporarily irregular\nS /z/ has not been introduced yet. \nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "as",
+   "notes": "Lessons 11-20\n*Temporarily irregular\nS /z/ has not been introduced yet. \nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "said",
+   "notes": "Lesson 13+\nAI represents the /ĕ/ sound.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "to",
+   "notes": "Lesson 15+\nO represents the /ū/ sound.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "do",
+   "notes": "Lesson 15+\nO represents the /ū/ sound.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "of",
+   "notes": "Lesson 17+\nO represents the /ŏ/ sound.\nF represents the /v/ sound.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  }
+ ],
+ "irregular_teach": [],
+ "sentences": [
+  "The pet did not beg.",
+  "I get to the gig at ten.",
+  "The men set up the bed."
+ ],
+ "passage_title": "Ten on the Bed",
+ "passage": [
+  "Mum and Dad get a big bed. \nBen and Ted get on the big bed.",
+  "Gab and Dot get on the big bed. \nTam the cat and Gus the dog get on the big bed.",
+  "Ned and Ed get on the big bed. \nMum and Dad get on the big bed. \nTen fit on the big bed!"
+ ],
+ "word_work": [],
+ "tables": [],
+ "placement": [
+  [
+   "men",
+   "get",
+   "e"
+  ],
+  [
+   "end",
+   "Ed",
+   "e"
+  ],
+  [
+   "men",
+   "get",
+   "e"
+  ],
+  [
+   "end",
+   "Ed",
+   "e"
+  ]
+ ]
+}

@@ -1,0 +1,196 @@
+{
+ "id": "45",
+ "source": "45__45_Slides_UFLIFoundations_AUS.pptx",
+ "nslides": 85,
+ "title": "Lesson 45 sh /sh/",
+ "concept": "sh /sh/",
+ "graphemes": [
+  "ck",
+  "ff",
+  "f",
+  "ll",
+  "l",
+  "ss",
+  "zz",
+  "z",
+  "s",
+  "u",
+  "e",
+  "i",
+  "o",
+  "a"
+ ],
+ "concept_slides": [
+  {
+   "n": 30,
+   "texts": [
+    "Consonant Digraph",
+    "When 2 consonants come together \nto make 1 sound."
+   ],
+   "notes": ""
+  },
+  {
+   "n": 31,
+   "texts": [
+    "ck"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 32,
+   "texts": [
+    "s",
+    "h"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 33,
+   "texts": [
+    "sh"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 36,
+   "texts": [
+    "sh"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 48,
+   "texts": [
+    "Consonant Digraph",
+    "When 2 consonants come together \nto make 1 sound."
+   ],
+   "notes": ""
+  },
+  {
+   "n": 49,
+   "texts": [
+    "ck"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 50,
+   "texts": [
+    "s",
+    "h"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 51,
+   "texts": [
+    "sh"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 54,
+   "texts": [
+    "sh"
+   ],
+   "notes": ""
+  }
+ ],
+ "read_words": [
+  "shed",
+  "shop",
+  "shut",
+  "shell",
+  "shock",
+  "fish",
+  "dish",
+  "flash",
+  "crash",
+  "shelf"
+ ],
+ "review_words": [
+  "shop",
+  "shut",
+  "wish",
+  "fresh"
+ ],
+ "irregular_review": [
+  {
+   "word": "your",
+   "notes": "Lesson 42+\nDepending on dialect...\nOU represents the /ū/ sound, or…\nOUR represents the /or/ sound, or…\nOUR represents the /er/ sound.\n\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "want",
+   "notes": "Lessons 42-93\n*Temporarily irregular\nA represents the /ŏ/ sound. This is a low-frequency concept that has not been introduced yet. \nIn some dialects, A represents the /ŭ/ sound. In this case, ‘want’ would be a permanently irregular word. \n\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "go",
+   "notes": "Lessons 43-65\n*Temporarily irregular \nO /ō/ has not been introduced yet.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "no",
+   "notes": "Lessons 43-65\n*Temporarily irregular \nO /ō/ has not been introduced yet. \nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "so",
+   "notes": "Lessons 43-65\n*Temporarily irregular \nO /ō/ has not been introduced yet. \nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "also",
+   "notes": "Lessons 43+\nA /or/ has not been introduced yet. \nO /ō/ has not been introduced yet. \nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "goes",
+   "notes": "Lessons 44-65\nO /ō/ has not been introduced yet. \nES spells /z/. This is an irregular way to add the -ES ending to a word. \nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "says",
+   "notes": "Lesson 44+\nAY represents the /ĕ/ sound.\nThe final S represents the /z/ sound. This concept has already been introduced. \n\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  }
+ ],
+ "irregular_teach": [
+  {
+   "word": "she",
+   "notes": "Lessons 45-65\n*Temporarily irregular \nE /ē/ has not been introduced yet.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "we",
+   "notes": "Lessons 45-65\n*Temporarily irregular \nE /ē/ has not been introduced yet.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  }
+ ],
+ "sentences": [
+  "She goes to the shop at ten.",
+  "Are we in a rush to get to the bash?",
+  "Jill says she wants to have fish sticks."
+ ],
+ "passage_title": "The Ship",
+ "passage": [
+  "Look at the ship. \nTrish and Josh jump on the ship deck. \nTrish has a net to get fish.\nJosh has a bag to get shells.",
+  "Trish jumps off the ship with the net. \nShe swims to get fish. \nJosh jumps off the ship with his bag. \nHe swims to get shells.",
+  "Trish and Josh get back on the ship. \n“Look at the fish in my net,” said Trish. \n“Look at the shells in my bag,” said Josh.\n We had fun on the ship."
+ ],
+ "word_work": [],
+ "tables": [],
+ "placement": [
+  [
+   "ship",
+   "shop",
+   "sh"
+  ],
+  [
+   "fish",
+   "wish",
+   "sh"
+  ],
+  [
+   "ship",
+   "shop",
+   "sh"
+  ],
+  [
+   "fish",
+   "wish",
+   "sh"
+  ]
+ ]
+}

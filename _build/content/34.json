@@ -1,0 +1,147 @@
+{
+ "id": "34",
+ "source": "34__34_Slides_UFLIFoundations_AUS.pptx",
+ "nslides": 84,
+ "title": "Lesson 34 z /z/",
+ "concept": "z /z/",
+ "graphemes": [
+  "v",
+  "qu",
+  "x",
+  "y",
+  "j",
+  "w",
+  "l",
+  "r",
+  "h",
+  "k",
+  "s",
+  "e",
+  "b",
+  "g",
+  "u",
+  "c",
+  "d",
+  "o",
+  "n",
+  "i"
+ ],
+ "concept_slides": [
+  {
+   "n": 36,
+   "texts": [
+    "z"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 39,
+   "texts": [
+    "dogs",
+    "bugs"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 40,
+   "texts": [
+    "s",
+    "z"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 55,
+   "texts": [
+    "z"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 58,
+   "texts": [
+    "dogs",
+    "bugs"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 59,
+   "texts": [
+    "s",
+    "z"
+   ],
+   "notes": ""
+  }
+ ],
+ "read_words": [
+  "zap",
+  "zen",
+  "zit",
+  "zip",
+  "quiz",
+  "zest"
+ ],
+ "review_words": [
+  "zip",
+  "zit",
+  "zap",
+  "quiz"
+ ],
+ "irregular_review": [
+  {
+   "word": "are",
+   "notes": "Lessons 27-76\nAR /ar/ has not been introduced yet.\nThe final E is silent but does not follow the long vowel VCe pattern. \nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "was",
+   "notes": "Lesson 29+\nA represents the /ŏ/ sound.​\nS /z/ has already been introduced. \nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "you",
+   "notes": "Lessons 31-114\n*Temporarily irregular\nOU /ū/ has not been introduced yet. \nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "what",
+   "notes": "Lessons 33-49\nWH /w/ has not been introduced yet.\nA represents the /ŭ/ sound or the /ŏ/ sound, depending on dialect.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "have",
+   "notes": "Lessons 33-61\n*Temporarily irregular\nThe final E is silent but does not follow the long vowel VCe pattern. \nThe silent E is there because English words can not end with the letter V.\n\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  }
+ ],
+ "irregular_teach": [],
+ "sentences": [
+  "Zed zips up the bag.",
+  "Zap the bug, Oz!",
+  "Did you do the quiz?"
+ ],
+ "passage_title": "Zip the Tent",
+ "passage": [
+  "Jaz and Zed went on a trip in a tent. \nJaz sets up the tent. \nZed helps. \n“Look at the pond,” said Jaz.",
+  "“Let’s swim!” \nJaz and Zed jump in the pond to swim. \nJaz and Zed see lots of bugs. \n“You have to zip up the tent,” said Jaz.",
+  "“If you zip it, the bugs do not get in.” \nZed runs to the tent to zip it up. \nThe bugs do not get in."
+ ],
+ "word_work": [],
+ "tables": [],
+ "placement": [
+  [
+   "zip",
+   "zap",
+   "z"
+  ],
+  [
+   "quiz",
+   "z"
+  ],
+  [
+   "zip",
+   "zap",
+   "z"
+  ],
+  [
+   "quiz",
+   "z"
+  ]
+ ]
+}

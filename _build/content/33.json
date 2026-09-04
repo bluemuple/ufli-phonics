@@ -1,0 +1,122 @@
+{
+ "id": "33",
+ "source": "33__33_Slides_UFLIFoundations_AUS.pptx",
+ "nslides": 82,
+ "title": "Lesson 33 v /v/",
+ "concept": "v /v/",
+ "graphemes": [
+  "qu",
+  "x",
+  "y",
+  "j",
+  "w",
+  "l",
+  "r",
+  "h",
+  "k",
+  "s",
+  "e",
+  "b",
+  "g",
+  "u",
+  "c",
+  "d",
+  "o",
+  "n",
+  "i",
+  "f"
+ ],
+ "concept_slides": [
+  {
+   "n": 36,
+   "texts": [
+    "v"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 38,
+   "texts": [
+    "v"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 53,
+   "texts": [
+    "v"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 55,
+   "texts": [
+    "v"
+   ],
+   "notes": ""
+  }
+ ],
+ "read_words": [
+  "van",
+  "vest",
+  "vat",
+  "vet",
+  "vent",
+  "vend"
+ ],
+ "review_words": [
+  "vet",
+  "van",
+  "vest",
+  "vent"
+ ],
+ "irregular_review": [
+  {
+   "word": "are",
+   "notes": "Lessons 27-76\nAR /ar/ has not been introduced yet.\nThe final E is silent but does not follow the long vowel VCe pattern. \nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "was",
+   "notes": "Lesson 29+\nA represents the /ŏ/ sound.​\nS /z/ has already been introduced. \nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "you",
+   "notes": "Lessons 31-114\n*Temporarily irregular\nOU /ū/ has not been introduced yet. \nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  }
+ ],
+ "irregular_teach": [
+  {
+   "word": "what",
+   "notes": "Lessons 33-49\nWH /w/ has not been introduced yet.\nA represents the /ŭ/ sound or the /ŏ/ sound, depending on dialect.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "have",
+   "notes": "Lessons 33-61\n*Temporarily irregular\nThe final E is silent but does not follow the long vowel VCe pattern. \nThe silent E is there because English words can not end with the letter V.\n\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  }
+ ],
+ "sentences": [
+  "The dog was at the vet.",
+  "Did Vic have his vest on?",
+  "What did you and Vin get?"
+ ],
+ "passage_title": "What is a Vet?",
+ "passage": [
+  "What can vets do? \nVets help pets. \nCan a vet help a dog? \nYes, a vet can help a dog.",
+  "Can a vet help a cat? \nYes, a vet can help lots of pets. \nCan a vet help kids?",
+  "No, a vet can not help kids. \nVets just help pets. \nVets have a fun job."
+ ],
+ "word_work": [],
+ "tables": [],
+ "placement": [
+  [
+   "van",
+   "vet",
+   "v"
+  ],
+  [
+   "van",
+   "vet",
+   "v"
+  ]
+ ]
+}

@@ -1,0 +1,130 @@
+{
+ "id": "24",
+ "source": "24__24_Slides_UFLIFoundations_AUS.pptx",
+ "nslides": 79,
+ "title": "Lesson 24 r /r/ Part 1",
+ "concept": "r /r/ Part 1",
+ "graphemes": [
+  "h",
+  "k",
+  "s",
+  "e",
+  "b",
+  "g",
+  "u",
+  "c",
+  "d",
+  "o",
+  "n",
+  "i",
+  "f",
+  "p",
+  "t",
+  "m",
+  "a"
+ ],
+ "concept_slides": [
+  {
+   "n": 33,
+   "texts": [
+    "r"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 35,
+   "texts": [
+    "r"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 51,
+   "texts": [
+    "r"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 53,
+   "texts": [
+    "r"
+   ],
+   "notes": ""
+  }
+ ],
+ "read_words": [
+  "rim",
+  "ramp",
+  "run",
+  "rap",
+  "rug",
+  "ran",
+  "rip",
+  "red",
+  "rods",
+  "rent",
+  "rust"
+ ],
+ "review_words": [
+  "run",
+  "red",
+  "ran",
+  "rest"
+ ],
+ "irregular_review": [
+  {
+   "word": "of",
+   "notes": "Lesson 17+\nO represents the /ŏ/ sound.\nF represents the /v/ sound.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "see",
+   "notes": "Lessons 19-84\n*Temporarily irregular \nEE /ē/ has not been introduced yet. \nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "he",
+   "notes": "Lessons 23-65\n*Temporarily irregular \nE /ē/ has not been introduced yet.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "be",
+   "notes": "Lessons 23-65\n*Temporarily irregular \nE /ē/ has not been introduced yet.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "me",
+   "notes": "Lessons 23-65\n*Temporarily irregular \nE /ē/ has not been introduced yet.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "ask",
+   "notes": "Lessons 22-77AUS\n*Temporarily irregular \nA /ar/ has not been introduced yet.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "fast",
+   "notes": "Lessons 22-77AUS\n*Temporarily irregular \nA /ar/ has not been introduced yet.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  }
+ ],
+ "irregular_teach": [],
+ "sentences": [
+  "I ask Rob to run to me.",
+  "Did he see the rat?",
+  "He got rid of the rags."
+ ],
+ "passage_title": "The Red Cat and the Rat",
+ "passage": [
+  "The red cat sees a rat. \nThe rat runs. \nThe red cat runs to get the rat. \nThe rat is fast. The red cat is not as fast.",
+  "The rat runs to a hut. \nThe rat got in the hut. \nThe red cat did not fit in the hut. \nThe rat got rid of the red cat."
+ ],
+ "word_work": [],
+ "tables": [],
+ "placement": [
+  [
+   "rat",
+   "run",
+   "r"
+  ],
+  [
+   "rat",
+   "run",
+   "r"
+  ]
+ ]
+}

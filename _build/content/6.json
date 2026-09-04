@@ -1,0 +1,99 @@
+{
+ "id": "6",
+ "source": "6__6_Slides_UFLIFoundations.pptx",
+ "nslides": 59,
+ "title": "Lesson 6 p /p/",
+ "concept": "p /p/",
+ "graphemes": [
+  "t",
+  "s",
+  "m",
+  "a"
+ ],
+ "concept_slides": [
+  {
+   "n": 20,
+   "texts": [
+    "p"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 23,
+   "texts": [
+    "p"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 38,
+   "texts": [
+    "p"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 41,
+   "texts": [
+    "p"
+   ],
+   "notes": ""
+  }
+ ],
+ "read_words": [
+  "map",
+  "sap",
+  "pat",
+  "tap"
+ ],
+ "review_words": [
+  "pat",
+  "map",
+  "tap"
+ ],
+ "irregular_review": [
+  {
+   "word": "the",
+   "notes": "Lessons 1-45\nThe digraph TH has not been introduced yet.\nE represents the /ŭ/ or /ə/ sound depending on stress.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "I",
+   "notes": "Lessons 3-65\n*Temporarily irregular\nI /ī/ has not been introduced yet. \nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "and",
+   "notes": "Lessons 5-10\n*Temporarily irregular \nNasalized A (an) has not been introduced yet.\nN /n/ is not introduced until Lesson 9. \nD /d/ is not introduced until Lesson 13. \nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  }
+ ],
+ "irregular_teach": [],
+ "sentences": [
+  "I tap and pat.",
+  "Tap the map!"
+ ],
+ "passage_title": "",
+ "passage": [],
+ "word_work": [],
+ "tables": [],
+ "placement": [
+  [
+   "pot",
+   "pig",
+   "p"
+  ],
+  [
+   "hop",
+   "nap",
+   "p"
+  ],
+  [
+   "pot",
+   "pig",
+   "p"
+  ],
+  [
+   "hop",
+   "nap",
+   "p"
+  ]
+ ]
+}

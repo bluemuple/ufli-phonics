@@ -1,0 +1,143 @@
+{
+ "id": "15",
+ "source": "15__15_Slides_UFLIFoundations_AUS.pptx",
+ "nslides": 79,
+ "title": "Lesson 15 u /ŭ/",
+ "concept": "u /ŭ/",
+ "graphemes": [
+  "c",
+  "d",
+  "o",
+  "n",
+  "i",
+  "f",
+  "p",
+  "t",
+  "s",
+  "m",
+  "a"
+ ],
+ "concept_slides": [
+  {
+   "n": 27,
+   "texts": [
+    "u"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 30,
+   "texts": [
+    "u"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 46,
+   "texts": [
+    "u"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 49,
+   "texts": [
+    "u"
+   ],
+   "notes": ""
+  }
+ ],
+ "read_words": [
+  "sun",
+  "up",
+  "us",
+  "nut",
+  "sum",
+  "fun",
+  "mud",
+  "cup",
+  "cut",
+  "mum",
+  "pup"
+ ],
+ "review_words": [
+  "us",
+  "up",
+  "fun",
+  "cut"
+ ],
+ "irregular_review": [
+  {
+   "word": "the",
+   "notes": "Lessons 1-45\nThe digraph TH has not been introduced yet.\nE represents the /ŭ/ or /ə/ sound depending on stress.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "I",
+   "notes": "Lessons 3-65\n*Temporarily irregular\nI /ī/ has not been introduced yet. \nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "and",
+   "notes": "Lessons 13+\nThis temporarily irregular word is now decodable because nasalized A and D /d/ have been introduced. \nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "a",
+   "notes": "Lesson 7+\nA as a word can be pronounced /ā/ or /ŭ/.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "is",
+   "notes": "Lessons 9-20\n*Temporarily irregular\nS /z/ has not been introduced yet. \nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "as",
+   "notes": "Lessons 11-20\n*Temporarily irregular\nS /z/ has not been introduced yet. \nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "said",
+   "notes": "Lesson 13+\nAI represents the /ĕ/ sound.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  }
+ ],
+ "irregular_teach": [
+  {
+   "word": "to",
+   "notes": "Lesson 15+\nO represents the /ū/ sound.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "do",
+   "notes": "Lesson 15+\nO represents the /ū/ sound.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  }
+ ],
+ "sentences": [
+  "It is up to us.",
+  "I can cut it up.",
+  "Is the pup in the mud?"
+ ],
+ "passage_title": "The Pup",
+ "passage": [
+  "The pup is up! \nThe pup is on us. \nIt’s fun.",
+  "Mum said the pup can sit on the mat in the sun.\nThe pup did not sit on the mat. \nThe pup is in the mud!"
+ ],
+ "word_work": [],
+ "tables": [],
+ "placement": [
+  [
+   "nut",
+   "fun",
+   "u"
+  ],
+  [
+   "up",
+   "us",
+   "u"
+  ],
+  [
+   "nut",
+   "fun",
+   "u"
+  ],
+  [
+   "up",
+   "us",
+   "u"
+  ]
+ ]
+}

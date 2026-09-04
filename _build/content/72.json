@@ -1,0 +1,161 @@
+{
+ "id": "72",
+ "source": "72__72_Slides_UFLIFoundations_AUS.pptx",
+ "nslides": 80,
+ "title": "Lesson 72 Long VCC",
+ "concept": "Long VCC",
+ "graphemes": [
+  "dge",
+  "g",
+  "tch",
+  "ch",
+  "-ed",
+  "c",
+  "a",
+  "i",
+  "o",
+  "e",
+  "u",
+  "nk",
+  "ng",
+  "wh",
+  "ph",
+  "ck",
+  "th",
+  "sh"
+ ],
+ "concept_slides": [
+  {
+   "n": 34,
+   "texts": [
+    "ild",
+    "wild"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 35,
+   "texts": [
+    "ind",
+    "mind"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 36,
+   "texts": [
+    "old",
+    "told"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 37,
+   "texts": [
+    "olt",
+    "bolt"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 38,
+   "texts": [
+    "ost",
+    "host"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 51,
+   "texts": [
+    "ild",
+    "wild"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 52,
+   "texts": [
+    "ind",
+    "mind"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 53,
+   "texts": [
+    "old",
+    "told"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 54,
+   "texts": [
+    "olt",
+    "bolt"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 55,
+   "texts": [
+    "ost",
+    "host"
+   ],
+   "notes": ""
+  }
+ ],
+ "read_words": [
+  "mild",
+  "child",
+  "find",
+  "kind",
+  "old",
+  "cold",
+  "hold",
+  "bolt",
+  "jolt",
+  "most"
+ ],
+ "review_words": [
+  "old",
+  "most",
+  "find",
+  "wild",
+  "bolt"
+ ],
+ "irregular_review": [
+  {
+   "word": "woman",
+   "notes": "Lesson 69+\nO represents the /oo/ sound.\nA represents the /ǝ/ sound.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "women",
+   "notes": "Lesson 69+\nO represents the /ĭ/ sound.\nE represents the /ǝ/ sound.\n\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "move",
+   "notes": "Lesson 70+\nO represents the /ū/ sound.\nThe final E is silent but does not follow the long vowel VCe pattern.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  }
+ ],
+ "irregular_teach": [
+  {
+   "word": "both",
+   "notes": "Lesson 72+\n O represents the /ō/ sound. Since both is a CVC (closed syllable) word, it should be /ŏ/.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  }
+ ],
+ "sentences": [
+  "It is cold in the old home.",
+  "The child wanted to hold the sketch.",
+  "What kind of cake do you like the most?"
+ ],
+ "passage_title": "The Gold Rush",
+ "passage": [
+  "Long ago, bold men and women drove west to find gold. They left their old lives behind in hopes of being rich. These were wild times. Mines exploded with gold that could be sold for lots of cash.",
+  "Some men and women got rich, but most did not find any gold. The men and women who did not find gold went back to their old homes. There they told the tale of their time in the Wild West gold rush."
+ ],
+ "word_work": [],
+ "tables": [],
+ "placement": []
+}

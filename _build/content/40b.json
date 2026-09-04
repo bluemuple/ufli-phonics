@@ -1,0 +1,163 @@
+{
+ "id": "40b",
+ "source": "40b__40b_Slides_UFLIFoundations.pptx",
+ "nslides": 87,
+ "title": "Lesson 40b Short E Advanced",
+ "concept": "Short E Advanced",
+ "graphemes": [
+  "u",
+  "o",
+  "i",
+  "a",
+  "m",
+  "s",
+  "t",
+  "p",
+  "f",
+  "n",
+  "d",
+  "c",
+  "g",
+  "b",
+  "k",
+  "h",
+  "r",
+  "l",
+  "w",
+  "j",
+  "y",
+  "x",
+  "qu",
+  "v",
+  "z"
+ ],
+ "concept_slides": [
+  {
+   "n": 41,
+   "texts": [
+    "e"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 44,
+   "texts": [
+    "p e t s"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 45,
+   "texts": [
+    "s e n d"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 46,
+   "texts": [
+    "e"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 60,
+   "texts": [
+    "e"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 63,
+   "texts": [
+    "p e t s"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 64,
+   "texts": [
+    "s e n d"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 65,
+   "texts": [
+    "e"
+   ],
+   "notes": ""
+  }
+ ],
+ "read_words": [
+  "let",
+  "west",
+  "set",
+  "men",
+  "yes",
+  "end",
+  "gets",
+  "help",
+  "rest",
+  "left",
+  "next",
+  "went",
+  "sled",
+  "step"
+ ],
+ "review_words": [
+  "end",
+  "best",
+  "next",
+  "went"
+ ],
+ "irregular_review": [
+  {
+   "word": "you",
+   "notes": "Lessons 31-114\n*Temporarily irregular\nOU /ū/ has not been introduced yet. \nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "what",
+   "notes": "Lessons 33-49\nWH /w/ has not been introduced yet.\nA represents the /ŭ/ sound or the /ŏ/ sound, depending on dialect.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "have",
+   "notes": "Lessons 33-61\n*Temporarily irregular\nThe final E is silent but does not follow the long vowel VCe pattern. \nThe silent E is there because English words can not end with the letter V.\n\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  }
+ ],
+ "irregular_teach": [],
+ "sentences": [
+  "I have to be at the end.",
+  "What did you send to Ben?",
+  "Did you get a text from Jen?"
+ ],
+ "passage_title": "Fred and the Tent",
+ "passage": [
+  "Fred is at camp. \nHe must set up his tent. \nOh no! The tent has a rip in it. \nFred must mend the tent.",
+  "What can help Fred mend the tent? \nA kit can help him mend the tent. \nFred mends and tests the tent. \nIt is set up!"
+ ],
+ "word_work": [],
+ "tables": [],
+ "placement": [
+  [
+   "men",
+   "get",
+   "e"
+  ],
+  [
+   "elf",
+   "end",
+   "e"
+  ],
+  [
+   "men",
+   "get",
+   "e"
+  ],
+  [
+   "elf",
+   "end",
+   "e"
+  ]
+ ]
+}

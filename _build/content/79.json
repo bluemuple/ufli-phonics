@@ -1,0 +1,203 @@
+{
+ "id": "79",
+ "source": "79__79_Slides_UFLIFoundations_AUS.pptx",
+ "nslides": 90,
+ "title": "Lesson 79 ar /ar/ & or, ore /or/ Review",
+ "concept": "ar /ar/ & or, ore /or/ Review",
+ "graphemes": [
+  "r",
+  "y",
+  "dge",
+  "g",
+  "tch",
+  "ch",
+  "-ed",
+  "c",
+  "i",
+  "a",
+  "o",
+  "e",
+  "u",
+  "nk",
+  "ng",
+  "th",
+  "sh",
+  "ck"
+ ],
+ "concept_slides": [
+  {
+   "n": 35,
+   "texts": [
+    "ar"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 39,
+   "texts": [
+    "or"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 44,
+   "texts": [
+    "ar"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 45,
+   "texts": [
+    "or",
+    "ore"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 58,
+   "texts": [
+    "ar"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 62,
+   "texts": [
+    "or"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 67,
+   "texts": [
+    "ar"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 68,
+   "texts": [
+    "or",
+    "ore"
+   ],
+   "notes": ""
+  }
+ ],
+ "read_words": [
+  "start",
+  "important",
+  "hard",
+  "part",
+  "large",
+  "march",
+  "form",
+  "more",
+  "story",
+  "before",
+  "market",
+  "morning"
+ ],
+ "review_words": [
+  "far",
+  "part",
+  "store",
+  "form"
+ ],
+ "irregular_review": [
+  {
+   "word": "pretty",
+   "notes": "Lesson 77+\nE represents the /ĭ/ sound. \nTT may be pronounced /d/ depending on dialect. \nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "half",
+   "notes": "Lesson 77AUS+\nAL represents the /ar/ sound.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "nothing",
+   "notes": "Lesson 78+\nO represents the /ŭ/ sound.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  }
+ ],
+ "irregular_teach": [],
+ "sentences": [
+  "There was nothing left in the cart.",
+  "The pretty stars twinkle in the dark sky.",
+  "The people wore shorts to the party."
+ ],
+ "passage_title": "Trip to the Market",
+ "passage": [
+  "Mum and Marcus went to the market. They wanted to pick up some pork, corn, rice, and a jar of mango jam. They liked this market more than the large store with all the people. The market was on a farm.",
+  "Mum parked the car and Marcus got the cart. This would be a short trip since they only wanted four things. Marcus got the rice and jar of mango jam. Mum picked up the pork and corn.",
+  "Once they had all their items, they gave the saleswoman their cash. Then, they departed the market. They got back in their car and drove home for a yummy\nlunch."
+ ],
+ "word_work": [],
+ "tables": [],
+ "placement": [
+  [
+   "bark",
+   "part",
+   "ar"
+  ],
+  [
+   "far",
+   "star",
+   "ar"
+  ],
+  [
+   "art",
+   "arm",
+   "ar"
+  ],
+  [
+   "fork",
+   "corn",
+   "or"
+  ],
+  [
+   "orb",
+   "or"
+  ],
+  [
+   "for",
+   "or"
+  ],
+  [
+   "more",
+   "store",
+   "ore"
+  ],
+  [
+   "bark",
+   "part",
+   "ar"
+  ],
+  [
+   "far",
+   "star",
+   "ar"
+  ],
+  [
+   "art",
+   "arm",
+   "ar"
+  ],
+  [
+   "fork",
+   "corn",
+   "or"
+  ],
+  [
+   "orb",
+   "or"
+  ],
+  [
+   "for",
+   "or"
+  ],
+  [
+   "more",
+   "store",
+   "ore"
+  ]
+ ]
+}

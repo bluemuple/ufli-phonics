@@ -1,0 +1,187 @@
+{
+ "id": "83",
+ "source": "83__83_Slides_UFLIFoundations_AUS.pptx",
+ "nslides": 82,
+ "title": "Lesson 83 R-Controlled Vowels Review",
+ "concept": "R-Controlled Vowels",
+ "graphemes": [
+  "ir",
+  "ur",
+  "er",
+  "or",
+  "ore",
+  "a",
+  "ar",
+  "y",
+  "dge",
+  "g",
+  "tch",
+  "ch",
+  "c",
+  "i",
+  "o",
+  "e",
+  "u"
+ ],
+ "concept_slides": [
+  {
+   "n": 34,
+   "texts": [
+    "ar",
+    "park",
+    "far",
+    "arm"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 38,
+   "texts": [
+    "er",
+    "fern",
+    "ir",
+    "bird",
+    "ur",
+    "or",
+    "turn",
+    "work",
+    "w",
+    "world"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 39,
+   "texts": [
+    "er",
+    "ir",
+    "ur",
+    "or",
+    "ar",
+    "a",
+    "or",
+    "ore"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 52,
+   "texts": [
+    "ar",
+    "park",
+    "far",
+    "arm"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 56,
+   "texts": [
+    "er",
+    "fern",
+    "ir",
+    "bird",
+    "ur",
+    "or",
+    "turn",
+    "work",
+    "w",
+    "world"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 57,
+   "texts": [
+    "er",
+    "ir",
+    "ur",
+    "or",
+    "ar",
+    "a",
+    "or",
+    "ore"
+   ],
+   "notes": ""
+  }
+ ],
+ "read_words": [
+  "start",
+  "merge",
+  "sharp",
+  "part",
+  "first",
+  "large",
+  "fern",
+  "perk",
+  "short",
+  "fork",
+  "third",
+  "world",
+  "work",
+  "worthy",
+  "dirty"
+ ],
+ "review_words": [
+  "start",
+  "work",
+  "bird",
+  "her",
+  "return",
+  "adverb"
+ ],
+ "irregular_review": [
+  {
+   "word": "other",
+   "notes": "Lesson 80+\nO represents the /ŭ/ sound.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "another",
+   "notes": "Lesson 80+\nA represents the /ə/ sound or the /ŭ/ sound, depending on stress.\nO represents the /ŭ/ sound.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "water",
+   "notes": "Lesson 80 AUS+\nA represents the /or/ sound.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "mother",
+   "notes": "Lesson 81+\nO represents the /ŭ/ sound.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "brother",
+   "notes": "Lesson 81+\nO represents the /ŭ/ sound.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  }
+ ],
+ "irregular_teach": [],
+ "sentences": [
+  "The shark started to swim to shore!",
+  "I got another star for doing my work.",
+  "My father was the first farmer in this part of the state."
+ ],
+ "passage_title": "Fishing at the Port",
+ "passage": [
+  "Travis and his father wanted to go fishing at the port. They drove to the tackle store to pick up some items. They had to get some fishing line and a jar of worms.",
+  "Travis located the jar of worms under a large rack of fishing rods. His father got the fishing line. He picked the extra sturdy line so they could catch big fish. They gave the clerk a credit card for their items.",
+  "Travis and his father left the tackle store, got in the car, and drove north to the water. This would be their third trip to the port. Last time, they went home with five fish. This time, they hope to catch more."
+ ],
+ "word_work": [],
+ "tables": [],
+ "placement": [
+  [
+   "cord",
+   "or"
+  ],
+  [
+   "store",
+   "ore"
+  ],
+  [
+   "cord",
+   "or"
+  ],
+  [
+   "store",
+   "ore"
+  ]
+ ]
+}

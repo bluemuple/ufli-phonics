@@ -1,0 +1,375 @@
+{
+ "id": "41a",
+ "source": "41a__41a_Slides_UFLIFoundations_AUS.pptx",
+ "nslides": 124,
+ "title": "Lesson 41a Short Vowels Review",
+ "concept": "Short Vowels Review",
+ "graphemes": [
+  "o",
+  "i",
+  "a",
+  "m",
+  "s",
+  "t",
+  "p",
+  "f",
+  "n",
+  "d",
+  "c",
+  "g",
+  "b",
+  "k",
+  "h",
+  "r",
+  "l",
+  "w",
+  "j",
+  "y",
+  "x",
+  "qu",
+  "v",
+  "z"
+ ],
+ "concept_slides": [
+  {
+   "n": 41,
+   "texts": [
+    "a"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 44,
+   "texts": [
+    "am",
+    "an",
+    "am",
+    "jam",
+    "an",
+    "can"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 45,
+   "texts": [
+    "i"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 48,
+   "texts": [
+    "o"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 51,
+   "texts": [
+    "u"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 54,
+   "texts": [
+    "e"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 57,
+   "texts": [
+    "a",
+    "e",
+    "i",
+    "o",
+    "u"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 69,
+   "texts": [
+    "a"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 72,
+   "texts": [
+    "am",
+    "an",
+    "am",
+    "jam",
+    "an",
+    "can"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 73,
+   "texts": [
+    "i"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 76,
+   "texts": [
+    "o"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 79,
+   "texts": [
+    "u"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 82,
+   "texts": [
+    "e"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 85,
+   "texts": [
+    "a",
+    "e",
+    "i",
+    "o",
+    "u"
+   ],
+   "notes": ""
+  }
+ ],
+ "read_words": [
+  "mat",
+  "sit",
+  "not",
+  "mud",
+  "let",
+  "sat",
+  "had",
+  "can",
+  "six",
+  "fit",
+  "on",
+  "got",
+  "job",
+  "us",
+  "run",
+  "red",
+  "ten"
+ ],
+ "review_words": [
+  "had",
+  "sit",
+  "got",
+  "but",
+  "red"
+ ],
+ "irregular_review": [
+  {
+   "word": "the",
+   "notes": "Lessons 1-45\nThe digraph TH has not been introduced yet.\nE represents the /ŭ/ or /ə/ sound depending on stress.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "I",
+   "notes": "Lessons 3-65\n*Temporarily irregular\nI /ī/ has not been introduced yet. \nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "a",
+   "notes": "Lesson 7+\nA as a word can be pronounced /ā/ or /ŭ/.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "said",
+   "notes": "Lesson 13+\nAI represents the /ĕ/ sound.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "to",
+   "notes": "Lesson 15+\nO represents the /ū/ sound.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "do",
+   "notes": "Lesson 15+\nO represents the /ū/ sound.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "of",
+   "notes": "Lesson 17+\nO represents the /ŏ/ sound.\nF represents the /v/ sound.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "see",
+   "notes": "Lessons 19-84\n*Temporarily irregular \nEE /ē/ has not been introduced yet. \nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "he",
+   "notes": "Lessons 23-65\n*Temporarily irregular \nE /ē/ has not been introduced yet.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "be",
+   "notes": "Lessons 23-65\n*Temporarily irregular \nE /ē/ has not been introduced yet.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "me",
+   "notes": "Lessons 23-65\n*Temporarily irregular \nE /ē/ has not been introduced yet.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "look",
+   "notes": "Lessons 26-88\n*Temporarily irregular \nOO /oo/ has not been introduced yet. \nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "book",
+   "notes": "Lessons 26-88\n*Temporarily irregular \nOO /oo/ has not been introduced yet. \nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "are",
+   "notes": "Lessons 27-76\nAR /ar/ has not been introduced yet.\nThe final E is silent but does not follow the long vowel VCe pattern. \nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "was",
+   "notes": "Lesson 29+\nA represents the /ŏ/ sound.​\nS /z/ has already been introduced. \nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "you",
+   "notes": "Lessons 31-114\n*Temporarily irregular\nOU /ū/ has not been introduced yet. \nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "what",
+   "notes": "Lessons 33-49\nWH /w/ has not been introduced yet.\nA represents the /ŭ/ sound or the /ŏ/ sound, depending on dialect.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "have",
+   "notes": "Lessons 33-61\n*Temporarily irregular\nThe final E is silent but does not follow the long vowel VCe pattern. \nThe silent E is there because English words can not end with the letter V.\n\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "ask",
+   "notes": "Lessons 22-77AUS\n*Temporarily irregular \nA /ar/ has not been introduced yet.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "fast",
+   "notes": "Lessons 22-77AUS\n*Temporarily irregular \nA /ar/ has not been introduced yet.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  }
+ ],
+ "irregular_teach": [],
+ "sentences": [
+  "I have a pig and a hen.",
+  "He was not on the bus.",
+  "Do you see the big fan?"
+ ],
+ "passage_title": "The Fox and the Red Hen",
+ "passage": [
+  "The fox can not get up. \nHe is in a pit. \nThe red hen looks at the fox. \n“Oh no! You are in the pit.”",
+  "“Yes, I am in the pit. Can you help me?” asks the fox. \n“Yes, I can help, but do not jump on me!” said the red hen. \nThe red hen helps the fox.",
+  "The fox did not jump on the red hen. \nThe red hen and the fox are glad the fox is not in the pit."
+ ],
+ "word_work": [],
+ "tables": [],
+ "placement": [
+  [
+   "cat",
+   "map",
+   "a"
+  ],
+  [
+   "at",
+   "as",
+   "a"
+  ],
+  [
+   "sit",
+   "big",
+   "i"
+  ],
+  [
+   "is",
+   "in",
+   "i"
+  ],
+  [
+   "hot",
+   "mop",
+   "o"
+  ],
+  [
+   "o",
+   "on",
+   "ox"
+  ],
+  [
+   "cut",
+   "run",
+   "u"
+  ],
+  [
+   "up",
+   "us",
+   "u"
+  ],
+  [
+   "men",
+   "get",
+   "e"
+  ],
+  [
+   "elf",
+   "end",
+   "e"
+  ],
+  [
+   "cat",
+   "map",
+   "a"
+  ],
+  [
+   "at",
+   "as",
+   "a"
+  ],
+  [
+   "sit",
+   "big",
+   "i"
+  ],
+  [
+   "is",
+   "in",
+   "i"
+  ],
+  [
+   "hot",
+   "mop",
+   "o"
+  ],
+  [
+   "o",
+   "on",
+   "ox"
+  ],
+  [
+   "cut",
+   "run",
+   "u"
+  ],
+  [
+   "up",
+   "us",
+   "u"
+  ],
+  [
+   "men",
+   "get",
+   "e"
+  ],
+  [
+   "elf",
+   "end",
+   "e"
+  ]
+ ]
+}

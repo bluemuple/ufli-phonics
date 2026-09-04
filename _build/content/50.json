@@ -1,0 +1,221 @@
+{
+ "id": "50",
+ "source": "50__50_Slides_UFLIFoundations_AUS.pptx",
+ "nslides": 87,
+ "title": "Lesson 50 wh /w/, ph /f/",
+ "concept": "wh /w/, ph /f/",
+ "graphemes": [
+  "ch",
+  "th",
+  "sh",
+  "ck",
+  "ff",
+  "ll",
+  "ss",
+  "zz",
+  "s",
+  "u",
+  "e",
+  "i",
+  "o",
+  "a"
+ ],
+ "concept_slides": [
+  {
+   "n": 30,
+   "texts": [
+    "Consonant Digraph",
+    "2 consonants that come together \nto make 1 sound."
+   ],
+   "notes": ""
+  },
+  {
+   "n": 31,
+   "texts": [
+    "ck",
+    "sh",
+    "th",
+    "ch"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 32,
+   "texts": [
+    "wh"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 34,
+   "texts": [
+    "w",
+    "wh"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 35,
+   "texts": [
+    "ph"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 38,
+   "texts": [
+    "f",
+    "ff",
+    "ph"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 50,
+   "texts": [
+    "Consonant Digraph",
+    "2 consonants that come together \nto make 1 sound."
+   ],
+   "notes": ""
+  },
+  {
+   "n": 51,
+   "texts": [
+    "ck",
+    "sh",
+    "th",
+    "ch"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 52,
+   "texts": [
+    "wh"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 54,
+   "texts": [
+    "w",
+    "wh"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 55,
+   "texts": [
+    "ph"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 58,
+   "texts": [
+    "f",
+    "ff",
+    "ph"
+   ],
+   "notes": ""
+  }
+ ],
+ "read_words": [
+  "when",
+  "Phil",
+  "whim",
+  "whip",
+  "whiff",
+  "which",
+  "whack",
+  "whisk",
+  "graph",
+  "Steph",
+  "Ralph"
+ ],
+ "review_words": [
+  "when",
+  "which",
+  "whiff",
+  "graph"
+ ],
+ "irregular_review": [
+  {
+   "word": "they",
+   "notes": "Lessons 46-113\n*Temporarily irregular\nEY /ā/ has not been introduced yet. \nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "their",
+   "notes": "Lesson 46+\nEIR represents the /air/ sound.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "were",
+   "notes": "Lessons 47-79\nER /er/ has not been introduced yet. \nThe final E is silent but does not follow the long vowel VCe pattern. \nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "walk",
+   "notes": "Lesson 48+\nAL represents the /ŏ/ or /or/ sound.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "talk",
+   "notes": "Lesson 48+\nAL represents the /ŏ/ or /or/ sound.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  }
+ ],
+ "irregular_teach": [
+  {
+   "word": "could",
+   "notes": "Lesson 50+\nOUL represents the /oo/ sound.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "would",
+   "notes": "Lesson 50+\nOUL represents the /oo/ sound.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "should",
+   "notes": "Lesson 50+\nOUL represents the /oo/ sound.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  }
+ ],
+ "sentences": [
+  "When will we have lunch?",
+  "Would the moth munch on the cloth?",
+  "Ralph should whack the ball with his bat."
+ ],
+ "passage_title": "On a Whim",
+ "passage": [
+  "Phil and Whit went on a walk. \nOn a whim, they went to see Steph. \nShe could whip them up a snack. \nShe was a whiz with a whisk. \n“Which snack do you want to munch on?” said Steph.",
+  "Whit would want a big snack, but Phil would want a small snack. \n“Let me have a whack at this dish,” said Steph. \nShe whips up a dish to munch on. \nPhil and Whit got a whiff of the dish.",
+  "“Yum!” said Whit. \nThe pals were glad they went to see Steph on a whim!"
+ ],
+ "word_work": [],
+ "tables": [],
+ "placement": [
+  [
+   "when",
+   "whip",
+   "wh"
+  ],
+  [
+   "phone",
+   "Phil",
+   "ph"
+  ],
+  [
+   "graph",
+   "ph"
+  ],
+  [
+   "when",
+   "whip",
+   "wh"
+  ],
+  [
+   "phone",
+   "Phil",
+   "ph"
+  ],
+  [
+   "graph",
+   "ph"
+  ]
+ ]
+}

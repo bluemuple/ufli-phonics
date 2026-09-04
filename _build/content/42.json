@@ -1,0 +1,155 @@
+{
+ "id": "42",
+ "source": "42__42_Slides_UFLIFoundations_AUS.pptx",
+ "nslides": 76,
+ "title": "Lesson 42 FLSZ Spelling Rule",
+ "concept": "FLSZ Spelling Rule",
+ "graphemes": [
+  "u",
+  "e",
+  "i",
+  "o",
+  "a",
+  "t",
+  "p",
+  "f",
+  "d",
+  "s",
+  "n",
+  "c",
+  "b",
+  "g",
+  "h",
+  "r",
+  "l",
+  "w",
+  "j",
+  "v"
+ ],
+ "concept_slides": [
+  {
+   "n": 36,
+   "texts": [
+    "f",
+    "l",
+    "s",
+    "z",
+    "ff",
+    "ll",
+    "ss",
+    "zz"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 37,
+   "texts": [
+    "Jeff will miss Buzz."
+   ],
+   "notes": ""
+  },
+  {
+   "n": 38,
+   "texts": [
+    "f",
+    "l",
+    "s",
+    "z",
+    "ff",
+    "ll",
+    "ss",
+    "zz",
+    "s"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 50,
+   "texts": [
+    "f",
+    "l",
+    "s",
+    "z",
+    "ff",
+    "ll",
+    "ss",
+    "zz"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 51,
+   "texts": [
+    "Jeff will miss Buzz."
+   ],
+   "notes": ""
+  },
+  {
+   "n": 52,
+   "texts": [
+    "f",
+    "l",
+    "s",
+    "z",
+    "ff",
+    "ll",
+    "ss",
+    "zz",
+    "s"
+   ],
+   "notes": ""
+  }
+ ],
+ "read_words": [
+  "off",
+  "huff",
+  "sniff",
+  "still",
+  "will",
+  "spell",
+  "mass",
+  "fuss",
+  "kiss",
+  "fizz"
+ ],
+ "review_words": [
+  "miss",
+  "off",
+  "tell",
+  "will",
+  "mass",
+  "well",
+  "spell",
+  "still"
+ ],
+ "irregular_review": [
+  {
+   "word": "insert review words\nbased on students’ needs",
+   "notes": ""
+  }
+ ],
+ "irregular_teach": [
+  {
+   "word": "your",
+   "notes": "Lesson 42+\nDepending on dialect...\nOU represents the /ū/ sound, or…\nOUR represents the /or/ sound, or…\nOUR represents the /er/ sound.\n\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "want",
+   "notes": "Lessons 42-93\n*Temporarily irregular\nA represents the /ŏ/ sound. This is a low-frequency concept that has not been introduced yet. \nIn some dialects, A represents the /ŭ/ sound. In this case, ‘want’ would be a permanently irregular word. \n\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  }
+ ],
+ "sentences": [
+  "I want to be the boss!",
+  "Look at the frills on Nell’s dress!",
+  "Do you want your stuff from the boss?"
+ ],
+ "passage_title": "Buzz Sells Milk",
+ "passage": [
+  "Buzz has a fun job. \nHis job is to sell jugs of milk at the mill. \nBuzz runs up to the top of the\nhill to get the milk.",
+  "He huffs and puffs at the top of the hill. \nBuzz fills six jugs with milk. \nNot a drop spills. \nNext, Buzz runs the milk jugs to the mill.",
+  "Buzz sees Tiff, Will, and Russ at the mill. \n“Do you want milk?” asks Buzz. \n“Yes!” yell the pals. The pals get the jugs. \nThe boss gets the bill. \nBuzz did a swell job."
+ ],
+ "word_work": [],
+ "tables": [],
+ "placement": []
+}

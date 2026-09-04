@@ -1,0 +1,158 @@
+{
+ "id": "70",
+ "source": "70__70_Slides_UFLIFoundations_AUS.pptx",
+ "nslides": 79,
+ "title": "Lesson 70 dge /j/",
+ "concept": "dge /j/",
+ "graphemes": [
+  "tch",
+  "ch",
+  "-ed",
+  "g",
+  "c",
+  "a",
+  "i",
+  "o",
+  "e",
+  "u",
+  "nk",
+  "ng",
+  "wh",
+  "ph",
+  "th",
+  "sh",
+  "ck",
+  "s"
+ ],
+ "concept_slides": [
+  {
+   "n": 34,
+   "texts": [
+    "j"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 35,
+   "texts": [
+    "_ge",
+    "cage"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 36,
+   "texts": [
+    "dge"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 38,
+   "texts": [
+    "j",
+    "_ge",
+    "dge"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 50,
+   "texts": [
+    "j"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 51,
+   "texts": [
+    "_ge",
+    "cage"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 52,
+   "texts": [
+    "dge"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 54,
+   "texts": [
+    "j",
+    "_ge",
+    "dge"
+   ],
+   "notes": ""
+  }
+ ],
+ "read_words": [
+  "badge",
+  "fridge",
+  "ridge",
+  "ledge",
+  "judge",
+  "wedge",
+  "fudge",
+  "nudge",
+  "bridge",
+  "smudge",
+  "grudge"
+ ],
+ "review_words": [
+  "edge",
+  "badge",
+  "judge",
+  "bridge"
+ ],
+ "irregular_review": [
+  {
+   "word": "friend",
+   "notes": "Lesson 66+\nIE represents the /ĕ/ or /ĭ/ sound, depending on dialect.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "because",
+   "notes": "Lesson 67a+\nAU represents the /ŭ/ sound. \nIn some dialects, AU represents the /or/ sound. In this case, the AU in because would be temporarily irregular until lesson 93 when AU /or/ is introduced. \nThe final E is silent but does not follow the long vowel VCe pattern. \n\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "woman",
+   "notes": "Lesson 69+\nO represents the /oo/ sound.\nA represents the /ǝ/ sound.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "women",
+   "notes": "Lesson 69+\nO represents the /ĭ/ sound.\nE represents the /ǝ/ sound.\n\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  }
+ ],
+ "irregular_teach": [
+  {
+   "word": "move",
+   "notes": "Lesson 70+\nO represents the /ū/ sound.\nThe final E is silent but does not follow the long vowel VCe pattern.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  }
+ ],
+ "sentences": [
+  "Has Midge been your friend for a long time?",
+  "I move the batch of fudge into the fridge.",
+  "The woman trims the hedge next to the fence."
+ ],
+ "passage_title": "The Lodge",
+ "passage": [
+  "Calvin has a lodge at the edge of the glen. The lodge has a fridge and a TV. To get to the lodge, you must go on a bridge then go by the ridge next to the lake. You can see many animals move from place to place by the lake.",
+  "Calvin loves the lodge. He pledges he will not move from it because his children come to visit him there. Calvin and his children have lots of fun at the lodge. They make music and sing songs by the lake. Sometimes they even jump into the lake and swim with the animals. The lodge is a hidden gem."
+ ],
+ "word_work": [],
+ "tables": [],
+ "placement": [
+  [
+   "dodge",
+   "bridge",
+   "dge"
+  ],
+  [
+   "dodge",
+   "bridge",
+   "dge"
+  ]
+ ]
+}

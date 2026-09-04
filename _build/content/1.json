@@ -1,0 +1,74 @@
+{
+ "id": "1",
+ "source": "1__1_Slides_UFLIFoundations.pptx",
+ "nslides": 36,
+ "title": "Lesson 1 a /ă/",
+ "concept": "a /ă/",
+ "graphemes": [],
+ "concept_slides": [
+  {
+   "n": 9,
+   "texts": [
+    "a"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 12,
+   "texts": [
+    "a"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 23,
+   "texts": [
+    "a"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 26,
+   "texts": [
+    "a"
+   ],
+   "notes": ""
+  }
+ ],
+ "read_words": [],
+ "review_words": [],
+ "irregular_review": [],
+ "irregular_teach": [
+  {
+   "word": "the",
+   "notes": "Lessons 1-45\nThe digraph TH has not been introduced yet.\nE represents the /ŭ/ or /ə/ sound depending on stress.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  }
+ ],
+ "sentences": [],
+ "passage_title": "",
+ "passage": [],
+ "word_work": [],
+ "tables": [],
+ "placement": [
+  [
+   "cat",
+   "map",
+   "a"
+  ],
+  [
+   "at",
+   "as",
+   "a"
+  ],
+  [
+   "cat",
+   "map",
+   "a"
+  ],
+  [
+   "at",
+   "as",
+   "a"
+  ]
+ ]
+}

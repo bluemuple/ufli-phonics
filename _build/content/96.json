@@ -1,0 +1,203 @@
+{
+ "id": "96",
+ "source": "96__96_Slides_UFLIFoundations_AUS.pptx",
+ "nslides": 92,
+ "title": "Lesson 96 ou, ow /ow/",
+ "concept": "ou, ow /ow/",
+ "graphemes": [
+  "oi",
+  "oy",
+  "ea",
+  "a",
+  "aw",
+  "au",
+  "augh",
+  "ew",
+  "ui",
+  "ue",
+  "oo",
+  "u",
+  "igh",
+  "oa",
+  "ow",
+  "oe",
+  "ee",
+  "ai",
+  "ay",
+  "ir",
+  "ur"
+ ],
+ "concept_slides": [
+  {
+   "n": 37,
+   "texts": [
+    "ou"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 40,
+   "texts": [
+    "ow",
+    "show"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 41,
+   "texts": [
+    "ow"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 45,
+   "texts": [
+    "ou",
+    "ow"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 57,
+   "texts": [
+    "ou"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 60,
+   "texts": [
+    "ow",
+    "show"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 61,
+   "texts": [
+    "ow"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 65,
+   "texts": [
+    "ou",
+    "ow"
+   ],
+   "notes": ""
+  }
+ ],
+ "read_words": [
+  "sound",
+  "how",
+  "around",
+  "outside",
+  "house",
+  "round",
+  "out",
+  "now",
+  "brown",
+  "crowd",
+  "without",
+  "downhill"
+ ],
+ "review_words": [
+  "out",
+  "sound",
+  "how",
+  "down"
+ ],
+ "irregular_review": [
+  {
+   "word": "Monday",
+   "notes": "Lesson 94+\nO represents the /ŭ/ sound.\nDepending on dialect, AY may be pronounced /ē/. \nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "Wednesday",
+   "notes": "Lesson 94+\nD is silent.\nE is silent.\nDepending on dialect, AY may be pronounced /ē/.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "February",
+   "notes": "Lesson 95+\nAR represents the /air/ sound.\nIn some dialects, the R is silent, and U may be pronounced /yū/ or /ŭ/ \nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  }
+ ],
+ "irregular_teach": [
+  {
+   "word": "eye",
+   "notes": "Lesson 96+\nEYE represents the /ī/ sound.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "heart",
+   "notes": "Lesson 96+\nEAR represents the /ar/ sound.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "our",
+   "notes": "Lesson 96+\nR represents the /ə/\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  }
+ ],
+ "sentences": [
+  "He found our brown bag on the ground.",
+  "How do you draw the shape of a heart?",
+  "How many days are in the month of February?"
+ ],
+ "passage_title": "Summer at the Farmhouse",
+ "passage": [
+  "Joey is staying with his grandmother for the summer. His grandmother owns a farmhouse close to town. Joey likes to\nhelp his grandmother around the farm. However, he most enjoys watching the animals who live outdoors.",
+  "On Monday, he saw a brown owl hunting a small mouse. The mouse found its way back underground just before the owl swooped down. \n\nOn Wednesday, he walked down to the\nstream south of the farm. This stream is full of trout and Joey likes to watch them swim.",
+  "Then on Friday, he went to the meadow\nwhere the cows graze. He picked some wildflowers for his grandmother. Joey hopes to return to his grandmother’s\nfarmhouse each summer."
+ ],
+ "word_work": [],
+ "tables": [],
+ "placement": [
+  [
+   "loud",
+   "sound",
+   "ou"
+  ],
+  [
+   "out",
+   "ouch",
+   "ou"
+  ],
+  [
+   "town",
+   "crowd",
+   "ow"
+  ],
+  [
+   "how",
+   "cow",
+   "ow"
+  ],
+  [
+   "owl",
+   "ow"
+  ],
+  [
+   "loud",
+   "sound",
+   "ou"
+  ],
+  [
+   "out",
+   "ouch",
+   "ou"
+  ],
+  [
+   "town",
+   "crowd",
+   "ow"
+  ],
+  [
+   "how",
+   "cow",
+   "ow"
+  ],
+  [
+   "owl",
+   "ow"
+  ]
+ ]
+}

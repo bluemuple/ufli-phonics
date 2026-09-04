@@ -1,0 +1,391 @@
+{
+ "id": "88",
+ "source": "88__88_Slides_UFLIFoundations_AUS.pptx",
+ "nslides": 120,
+ "title": "Lesson 88 Vowel Teams Review 1",
+ "concept": "Vowel Teams Review 1",
+ "graphemes": [
+  "ie",
+  "igh",
+  "oa",
+  "ow",
+  "oe",
+  "ee",
+  "ea",
+  "ey",
+  "ai",
+  "ay",
+  "ir",
+  "ur",
+  "er",
+  "or",
+  "ore",
+  "a",
+  "ar",
+  "y",
+  "dge"
+ ],
+ "concept_slides": [
+  {
+   "n": 35,
+   "texts": [
+    "Vowel Team",
+    "2 or more letters that work together to make 1 sound."
+   ],
+   "notes": ""
+  },
+  {
+   "n": 36,
+   "texts": [
+    "a_e",
+    "a",
+    "ai",
+    "ay"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 40,
+   "texts": [
+    "e_e",
+    "e",
+    "y",
+    "ee",
+    "ea",
+    "ey"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 46,
+   "texts": [
+    "ey",
+    "1st syllable",
+    "2nd syllable",
+    "kidney",
+    "turkey"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 47,
+   "texts": [
+    "o_e",
+    "o",
+    "ow",
+    "oe",
+    "oa"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 53,
+   "texts": [
+    "i_e",
+    "i",
+    "ie",
+    "igh",
+    "y"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 71,
+   "texts": [
+    "Vowel Team",
+    "2 or more letters that work together to make 1 sound."
+   ],
+   "notes": ""
+  },
+  {
+   "n": 72,
+   "texts": [
+    "a_e",
+    "a",
+    "ai",
+    "ay"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 76,
+   "texts": [
+    "e_e",
+    "e",
+    "y",
+    "ee",
+    "ea",
+    "ey"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 82,
+   "texts": [
+    "ey",
+    "1st syllable",
+    "2nd syllable",
+    "kidney",
+    "turkey"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 83,
+   "texts": [
+    "o_e",
+    "o",
+    "ow",
+    "oe",
+    "oa"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 89,
+   "texts": [
+    "i_e",
+    "i",
+    "ie",
+    "igh",
+    "y"
+   ],
+   "notes": ""
+  }
+ ],
+ "read_words": [
+  "stray",
+  "oatmeal",
+  "way",
+  "day",
+  "gain",
+  "greet",
+  "scream",
+  "float",
+  "boast",
+  "show",
+  "night",
+  "fright",
+  "follow",
+  "untie",
+  "between",
+  "below",
+  "daylight",
+  "railroad",
+  "highway",
+  "jersey",
+  "raincoat"
+ ],
+ "review_words": [
+  "play",
+  "read",
+  "feet",
+  "right",
+  "below"
+ ],
+ "irregular_review": [
+  {
+   "word": "today",
+   "notes": "Lesson 84+\nO represents the /ū/ sound or the /ə/ sound depending on stress and dialect. \nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "above",
+   "notes": "Lesson 85+\nA represents the /ə/ or the /ŭ/ sound, depending on stress.\nO represents the /ŭ/ sound.\nThe final E is silent but does not follow the long vowel VCe pattern. In this case, the silent E is there because English words do not end in V.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "among",
+   "notes": "Lesson 85+\nA represents the /ə/ or the /ŭ/ sound, depending on stress.\nO represents the /ŭ/ sound.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "again",
+   "notes": "Lesson 86+\nThe first A represents the /ə/ or the /ŭ/ sound, depending on stress.\nAI represents the /ĕ/ or /ĭ/ sound, depending on dialect.\nIn some dialects, the AI in again is pronounced /ā/. In this case, this part of the word would not be irregular. \nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "against",
+   "notes": "Lesson 86+\nThe first A represents the /ə/ or the /ŭ/ sound, depending on stress.\nAI represents the /ĕ/ or /ĭ/ sound, depending on dialect.\nIn some dialects, the AI in against is pronounced /ā/. In this case, this part of the word would not be irregular. \nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "always",
+   "notes": "Lesson 87+\nThe first A represents the /ŏ/ or /aw/ sound.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "almost",
+   "notes": "Lesson 87+\nA represents the /ŏ/ or /aw/ sound.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  }
+ ],
+ "irregular_teach": [],
+ "sentences": [
+  "It is very bright on the road today.",
+  "The team groaned as they almost scored.",
+  "I always use soap when I take a bath at night."
+ ],
+ "passage_title": "Aiden’s Goal",
+ "passage": [
+  "Aiden had to find a way to make money. He needed to save up for his dream car. He wanted to get a jeep, but jeeps are not cheap. He needed to find a job that paid very well, so he could own his dream car. What could he do?",
+  "Aiden went to his father for advice. His father said he should study. “How will studying get me my dream car?” Aiden\nasked. His father explained that he could study a trade like welding or carpentry. He could also take more classes to get a degree.",
+  "People who had a trade or a degree could make a lot of money. Aiden needed to think over what his father had told him. It would take longer to study, but in the end, Aiden would be able to get his dream car and more.",
+  "After days of thinking, Aiden chose to take more classes. This would help him reach his dream and his next one, whatever that might be. Aiden’s father was almost always right."
+ ],
+ "word_work": [],
+ "tables": [],
+ "placement": [
+  [
+   "bait",
+   "mail",
+   "ai"
+  ],
+  [
+   "aim",
+   "aid",
+   "ai"
+  ],
+  [
+   "may",
+   "say",
+   "ay"
+  ],
+  [
+   "need",
+   "feet",
+   "ee"
+  ],
+  [
+   "see",
+   "tree",
+   "ee"
+  ],
+  [
+   "mean",
+   "team",
+   "ea"
+  ],
+  [
+   "eat",
+   "each",
+   "ea"
+  ],
+  [
+   "tea",
+   "flea",
+   "ea"
+  ],
+  [
+   "boat",
+   "road",
+   "oa"
+  ],
+  [
+   "oat",
+   "oak",
+   "oa"
+  ],
+  [
+   "show",
+   "grow",
+   "ow"
+  ],
+  [
+   "grown",
+   "flown",
+   "ow"
+  ],
+  [
+   "toe",
+   "oe"
+  ],
+  [
+   "pie",
+   "tie",
+   "ie"
+  ],
+  [
+   "light",
+   "might",
+   "igh"
+  ],
+  [
+   "high",
+   "sigh",
+   "igh"
+  ],
+  [
+   "bait",
+   "mail",
+   "ai"
+  ],
+  [
+   "aim",
+   "aid",
+   "ai"
+  ],
+  [
+   "may",
+   "say",
+   "ay"
+  ],
+  [
+   "need",
+   "feet",
+   "ee"
+  ],
+  [
+   "see",
+   "tree",
+   "ee"
+  ],
+  [
+   "mean",
+   "team",
+   "ea"
+  ],
+  [
+   "eat",
+   "each",
+   "ea"
+  ],
+  [
+   "tea",
+   "flea",
+   "ea"
+  ],
+  [
+   "boat",
+   "road",
+   "oa"
+  ],
+  [
+   "oat",
+   "oak",
+   "oa"
+  ],
+  [
+   "show",
+   "grow",
+   "ow"
+  ],
+  [
+   "grown",
+   "flown",
+   "ow"
+  ],
+  [
+   "toe",
+   "oe"
+  ],
+  [
+   "pie",
+   "tie",
+   "ie"
+  ],
+  [
+   "light",
+   "might",
+   "igh"
+  ],
+  [
+   "high",
+   "sigh",
+   "igh"
+  ]
+ ]
+}

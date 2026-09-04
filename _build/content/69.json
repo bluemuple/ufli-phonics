@@ -1,0 +1,152 @@
+{
+ "id": "69",
+ "source": "69__69_Slides_UFLIFoundations_AUS.pptx",
+ "nslides": 79,
+ "title": "Lesson 69 tch /ch/",
+ "concept": "tch /ch/",
+ "graphemes": [
+  "-ed",
+  "g",
+  "c",
+  "a",
+  "i",
+  "o",
+  "e",
+  "u",
+  "nk",
+  "ng",
+  "wh",
+  "ph",
+  "ch",
+  "th",
+  "sh",
+  "ck",
+  "s"
+ ],
+ "concept_slides": [
+  {
+   "n": 33,
+   "texts": [
+    "ch"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 36,
+   "texts": [
+    "tch"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 38,
+   "texts": [
+    "ch",
+    "tch"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 50,
+   "texts": [
+    "ch"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 51,
+   "texts": [
+    "tch"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 53,
+   "texts": [
+    "ch",
+    "tch"
+   ],
+   "notes": ""
+  }
+ ],
+ "read_words": [
+  "match",
+  "itch",
+  "fetch",
+  "witch",
+  "latch",
+  "patch",
+  "ditch",
+  "hatch",
+  "stitch",
+  "switch"
+ ],
+ "review_words": [
+  "catch",
+  "pitch",
+  "fetch",
+  "crutch"
+ ],
+ "irregular_review": [
+  {
+   "word": "been",
+   "notes": "Lesson 65+\nEE represents the /ĕ/ sound or the /ĭ/ sound, depending on dialect. \nIn some dialects, the EE in been is pronounced /ē/. In this case, been would be temporarily irregular until lesson 85 when EE /ē/ is introduced. \nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "into",
+   "notes": "Lesson 65+\nO represents the /ū/ sound.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "friend",
+   "notes": "Lesson 66+\nIE represents the /ĕ/ or /ĭ/ sound, depending on dialect.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "because",
+   "notes": "Lesson 67a+\nAU represents the /ŭ/ sound. \nIn some dialects, AU represents the /or/ sound. In this case, the AU in because would be temporarily irregular until lesson 93 when AU /or/ is introduced. \nThe final E is silent but does not follow the long vowel VCe pattern. \n\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  }
+ ],
+ "irregular_teach": [
+  {
+   "word": "woman",
+   "notes": "Lesson 69+\nO represents the /oo/ sound.\nA represents the /ǝ/ sound.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "women",
+   "notes": "Lesson 69+\nO represents the /ĭ/ sound.\nE represents the /ǝ/ sound.\n\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  }
+ ],
+ "sentences": [
+  "Spot will fetch the long stick!",
+  "The woman will patch the dress with lace.",
+  "Close the latch on the fence."
+ ],
+ "passage_title": "Catching Fish",
+ "passage": [
+  "Kate and Mitch wanted to do something fun. Kate hatched a thrilling plan. She snatched a bucket and some poles from the hutch. “Let’s go!” Kate yelled. Kate and Mitch went to the lake beyond the ditch.",
+  "“Let’s catch some fish,” Kate calls out. Mitch catches a fish! They pitch it in the bucket. “Nice catch! Let’s get this fish back home,” said Kate. At home, Kate and Mitch toss the fish into their pond. “This fish can be our pet!” said Kate."
+ ],
+ "word_work": [],
+ "tables": [],
+ "placement": [
+  [
+   "chip",
+   "chin",
+   "ch"
+  ],
+  [
+   "such",
+   "rich",
+   "ch"
+  ],
+  [
+   "catch",
+   "pitch",
+   "tch"
+  ],
+  [
+   "catch",
+   "pitch",
+   "tch"
+  ]
+ ]
+}

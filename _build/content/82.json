@@ -1,0 +1,278 @@
+{
+ "id": "82",
+ "source": "82__82_Slides_UFLIFoundations_AUS.pptx",
+ "nslides": 99,
+ "title": "Lesson 82 Spelling /er/: er, ir, ur, w + or",
+ "concept": "Spelling /er/:",
+ "graphemes": [
+  "er",
+  "or",
+  "ore",
+  "a",
+  "ar",
+  "y",
+  "dge",
+  "g",
+  "tch",
+  "ch",
+  "c",
+  "i",
+  "o",
+  "e",
+  "u",
+  "nk",
+  "ng"
+ ],
+ "concept_slides": [
+  {
+   "n": 34,
+   "texts": [
+    "er"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 37,
+   "texts": [
+    "ir"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 40,
+   "texts": [
+    "ur"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 44,
+   "texts": [
+    "or"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 45,
+   "texts": [
+    "or",
+    "w"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 47,
+   "texts": [
+    "or",
+    "w"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 48,
+   "texts": [
+    "er",
+    "ir",
+    "ur",
+    "or"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 61,
+   "texts": [
+    "er"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 64,
+   "texts": [
+    "ir"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 67,
+   "texts": [
+    "ur"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 71,
+   "texts": [
+    "or"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 72,
+   "texts": [
+    "or",
+    "w"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 74,
+   "texts": [
+    "or",
+    "w"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 75,
+   "texts": [
+    "er",
+    "ir",
+    "ur",
+    "or"
+   ],
+   "notes": ""
+  }
+ ],
+ "read_words": [
+  "her",
+  "third",
+  "hurt",
+  "work",
+  "girl",
+  "first",
+  "perch",
+  "serve",
+  "turn",
+  "blur",
+  "word",
+  "world",
+  "term",
+  "observe"
+ ],
+ "review_words": [
+  "term",
+  "third",
+  "word",
+  "hurt"
+ ],
+ "irregular_review": [
+  {
+   "word": "other",
+   "notes": "Lesson 80+\nO represents the /ŭ/ sound.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "another",
+   "notes": "Lesson 80+\nA represents the /ə/ sound or the /ŭ/ sound, depending on stress.\nO represents the /ŭ/ sound.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "water",
+   "notes": "Lesson 80 AUS+\nA represents the /or/ sound.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "mother",
+   "notes": "Lesson 81+\nO represents the /ŭ/ sound.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "brother",
+   "notes": "Lesson 81+\nO represents the /ŭ/ sound.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  }
+ ],
+ "irregular_teach": [],
+ "sentences": [
+  "These worms live in the dirt.",
+  "Her baby brother just said his first words!",
+  "Bert and Kirk work well together because they are friends."
+ ],
+ "passage_title": "The Worst Pet Ever",
+ "passage": [
+  "Morgan has wanted a pet for a long time. One morning, there was a small box on the table with her name on it. Inside the box, there was a bunch of dirt. Under the dirt was a pet worm for her!",
+  "Morgan was sad. She thinks a worm is the worst pet in the world. She wanted a dog or cat or even a hamster, not a squirmy worm! What were her mum and\ndad thinking? This pet will not work. She started to cry.",
+  "Just then, mum and dad came in and said, “We got you! It was a joke! We are going to the pet shop!” Morgan was so happy. She wiped her face and gave\nmum and dad a hug. She was going to get the best pet ever!"
+ ],
+ "word_work": [],
+ "tables": [],
+ "placement": [
+  [
+   "verb",
+   "fern",
+   "er"
+  ],
+  [
+   "her",
+   "per",
+   "er"
+  ],
+  [
+   "girl",
+   "bird",
+   "ir"
+  ],
+  [
+   "sir",
+   "stir",
+   "ir"
+  ],
+  [
+   "turn",
+   "hurt",
+   "ur"
+  ],
+  [
+   "urn",
+   "urge",
+   "ur"
+  ],
+  [
+   "fur",
+   "blur",
+   "ur"
+  ],
+  [
+   "work",
+   "word",
+   "w",
+   "or"
+  ],
+  [
+   "verb",
+   "fern",
+   "er"
+  ],
+  [
+   "her",
+   "per",
+   "er"
+  ],
+  [
+   "girl",
+   "bird",
+   "ir"
+  ],
+  [
+   "sir",
+   "stir",
+   "ir"
+  ],
+  [
+   "turn",
+   "hurt",
+   "ur"
+  ],
+  [
+   "urn",
+   "urge",
+   "ur"
+  ],
+  [
+   "fur",
+   "blur",
+   "ur"
+  ],
+  [
+   "work",
+   "word",
+   "w",
+   "or"
+  ]
+ ]
+}

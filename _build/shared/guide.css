@@ -1,0 +1,75 @@
+/* UFLI teacher's guide (교사용 지도서) - modelled on the UFLI Foundations manual lesson pages */
+@font-face{font-family:"Century Gothic";src:url("../fonts/CenturyGothic.ttf") format("truetype");font-weight:400}
+@font-face{font-family:"Century Gothic";src:url("../fonts/CenturyGothic-Bold.ttf") format("truetype");font-weight:700}
+@font-face{font-family:"Century Gothic";src:url("../fonts/CenturyGothic-Italic.ttf") format("truetype");font-weight:400;font-style:italic}
+:root{--ink:#111;--muted:#555;--bar:#1a1a1a;--sub:#5b5b5b;--rule:#d5d5d5;--blue:#2c629f;--red:#e05436;--teal:#3aa9a4;--paper:#fff;--bg:#e9ecef}
+*{box-sizing:border-box}
+html{background:var(--bg)}
+body{margin:0;font-family:"Century Gothic","Didact Gothic","Futura","Avenir Next",system-ui,sans-serif;color:var(--ink);font-size:14px;line-height:1.38}
+.topnav{position:sticky;top:0;z-index:10;background:#1c2430;color:#e8edf3;display:flex;align-items:center;gap:14px;padding:8px 18px;font-size:13px}
+.topnav a{color:#8fd3cf;text-decoration:none}
+.topnav a:hover{text-decoration:underline}
+.topnav .sp{flex:1}
+.topnav button{background:#2a3444;color:#e8edf3;border:0;border-radius:6px;padding:5px 10px;font:inherit;cursor:pointer}
+.page{background:var(--paper);width:210mm;max-width:calc(100% - 20px);overflow:hidden;min-height:297mm;margin:18px auto;padding:12mm 12mm 14mm;box-shadow:0 8px 30px rgba(0,0,0,.18);position:relative}
+.hdr{display:flex;justify-content:space-between;font-size:12.5px;margin-bottom:8px;color:#222}
+.hdr b{font-weight:700}
+.banner{background:var(--bar);color:#fff;border-radius:14px;padding:10px 16px;margin:4px 0 12px;font-size:15px}
+.banner .big{font-size:22px;font-weight:700;letter-spacing:.01em;margin-right:8px}
+.cols{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:0 14px}
+.cols > div{min-width:0;max-width:100%}
+.sec{margin-bottom:9px;break-inside:avoid}
+.sec h2{background:var(--bar);color:#fff;font-size:14px;font-weight:700;margin:0;padding:4px 9px}
+.sec h2 span{font-weight:400;opacity:.9}
+.sec .sub{background:var(--sub);color:#fff;font-size:12.5px;font-weight:700;padding:2px 9px}
+.sec .body{padding:5px 8px 6px;font-size:13px;overflow-wrap:anywhere;word-break:normal}
+.two{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:0 6px}
+.two > div{min-width:0}
+.two .sub{margin:0 -8px 3px}
+.notes{font-style:italic;color:#222}
+.body p{margin:0 0 6px}
+.body b{font-weight:700}
+.body i{font-style:italic}
+.chip{display:inline-block;max-width:100%;border:1.5px solid #cfd6de;border-radius:8px;padding:1px 7px;margin:2px 3px 2px 0;cursor:pointer;background:#fff;font-size:13px;white-space:nowrap}
+.chip:hover{border-color:var(--teal);background:#f2fbfa}
+.chip b{font-weight:700}
+.chip .s{color:var(--red)}
+.chain{font-size:13px;white-space:normal}
+.chain .arr{color:#888;margin:0 3px}
+.grid{display:grid;grid-template-columns:1fr 1fr 1fr;gap:6px;margin-top:6px}
+.grid div{border:1.5px solid #cfd6de;border-radius:8px;padding:4px 6px;font-size:12.5px;min-height:40px}
+.grid div b{display:block;font-size:11px;color:#666;text-transform:uppercase;letter-spacing:.06em;margin-bottom:2px}
+.grid .tile{display:inline-block;border:1px solid #999;border-radius:4px;padding:0 5px;margin:1px 2px;background:#fff;font-weight:700}
+.script{font-size:13px}
+.script p{margin:0 0 6px}
+.script .say{font-weight:700}
+.wl{columns:2;column-gap:14px;font-size:13px}
+.wl h4{margin:6px 0 2px;font-size:13px;color:var(--blue);break-after:avoid}
+.wl ul{margin:0 0 6px 16px;padding:0}
+.lists{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;font-size:12.5px}
+.lists h4{margin:0 0 3px;font-size:13px;color:var(--blue)}
+.lists ul{margin:0;padding:0;list-style:none}
+.lists li{padding:0 0 1px}
+.foot{position:absolute;left:12mm;right:12mm;bottom:7mm;font-size:11px;color:#777;display:flex;justify-content:space-between}
+.tag{display:inline-block;background:var(--teal);color:#fff;font-size:11px;border-radius:10px;padding:1px 8px;margin-left:6px;vertical-align:middle}
+.hw{margin:0}
+.hw dt{font-weight:700;display:inline}
+.hw dd{display:inline;margin:0 0 0 4px;color:#333}
+.heart{color:var(--red)}
+.sent{margin:0 0 4px}
+.passage{font-size:13px;white-space:pre-line}
+/* popup */
+#pop{position:fixed;inset:0;background:rgba(10,14,20,.5);display:none;align-items:center;justify-content:center;z-index:50}
+#pop.open{display:flex}
+#pop .card{background:#fff;border-radius:18px;padding:26px 34px;min-width:460px;max-width:760px;box-shadow:0 30px 80px rgba(0,0,0,.4);position:relative;font-family:"Century Gothic","Didact Gothic","Futura",sans-serif}
+#pop .x{position:absolute;top:10px;right:14px;border:0;background:none;font-size:24px;cursor:pointer;color:#888}
+#pop .g{font-size:64px;font-weight:700;color:var(--blue);line-height:1;margin-bottom:8px}
+#pop .snd{display:flex;align-items:baseline;gap:16px;margin:10px 0 2px;flex-wrap:wrap}
+#pop .snd .ph{font-size:30px;font-weight:700;color:var(--red);min-width:110px}
+#pop .snd .ex{font-size:28px;display:flex;gap:12px;flex-wrap:wrap}
+#pop .snd .ex span{padding:1px 10px;border:2px solid #e4e9f0;border-radius:10px;cursor:pointer}
+#pop .snd .ex span:hover{border-color:var(--teal)}
+#pop .snd .ex mark{background:none;color:var(--red);font-weight:700}
+#pop .tip{color:#5b6b7f;font-size:14px;margin-top:12px;line-height:1.45}
+#pop .tip b{color:#111}
+@media print{.topnav,#pop{display:none!important}.page{box-shadow:none;margin:0;width:auto;min-height:auto;page-break-after:always}html{background:#fff}}

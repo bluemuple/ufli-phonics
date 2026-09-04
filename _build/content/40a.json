@@ -1,0 +1,131 @@
+{
+ "id": "40a",
+ "source": "40a__40a_Slides_UFLIFoundations.pptx",
+ "nslides": 83,
+ "title": "Lesson 40a Short E Review",
+ "concept": "Short E Review",
+ "graphemes": [
+  "u",
+  "o",
+  "i",
+  "a",
+  "m",
+  "s",
+  "t",
+  "p",
+  "f",
+  "n",
+  "d",
+  "c",
+  "g",
+  "b",
+  "k",
+  "h",
+  "r",
+  "l",
+  "w",
+  "j",
+  "y",
+  "x",
+  "qu",
+  "v",
+  "z"
+ ],
+ "concept_slides": [
+  {
+   "n": 41,
+   "texts": [
+    "e"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 44,
+   "texts": [
+    "e"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 58,
+   "texts": [
+    "e"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 61,
+   "texts": [
+    "e"
+   ],
+   "notes": ""
+  }
+ ],
+ "read_words": [
+  "hen",
+  "let",
+  "yes",
+  "set",
+  "get",
+  "ten",
+  "pet",
+  "red",
+  "bed",
+  "men"
+ ],
+ "review_words": [
+  "ten",
+  "red",
+  "let",
+  "yes"
+ ],
+ "irregular_review": [
+  {
+   "word": "you",
+   "notes": "Lessons 31-114\n*Temporarily irregular\nOU /ū/ has not been introduced yet. \nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "what",
+   "notes": "Lessons 33-49\nWH /w/ has not been introduced yet.\nA represents the /ŭ/ sound or the /ŏ/ sound, depending on dialect.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "have",
+   "notes": "Lessons 33-61\n*Temporarily irregular\nThe final E is silent but does not follow the long vowel VCe pattern. \nThe silent E is there because English words can not end with the letter V.\n\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  }
+ ],
+ "irregular_teach": [],
+ "sentences": [
+  "I do not have pets.",
+  "Have you fed the hen?",
+  "What do you see on the jet?"
+ ],
+ "passage_title": "The Pet Hen",
+ "passage": [
+  "Dex has a pet hen. \nThe hen is big and red. \nDex let his hen run. \nBut the hen ran into a pig pen.",
+  "The hen has a big welt. \nDex must tend to his red hen. \nHe gets the hen in its bed. \n“You must rest,” Dex said."
+ ],
+ "word_work": [],
+ "tables": [],
+ "placement": [
+  [
+   "men",
+   "get",
+   "e"
+  ],
+  [
+   "elf",
+   "end",
+   "e"
+  ],
+  [
+   "men",
+   "get",
+   "e"
+  ],
+  [
+   "elf",
+   "end",
+   "e"
+  ]
+ ]
+}

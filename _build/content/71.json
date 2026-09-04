@@ -1,0 +1,190 @@
+{
+ "id": "71",
+ "source": "71__71_Slides_UFLIFoundations_AUS.pptx",
+ "nslides": 81,
+ "title": "Lesson 71 tch /ch/, dge /j/ Review",
+ "concept": "tch /ch/, dge /j/",
+ "graphemes": [
+  "-ed",
+  "g",
+  "c",
+  "a",
+  "i",
+  "o",
+  "e",
+  "u",
+  "nk",
+  "ng",
+  "wh",
+  "ph",
+  "ch",
+  "th",
+  "sh",
+  "ck",
+  "s"
+ ],
+ "concept_slides": [
+  {
+   "n": 33,
+   "texts": [
+    "ch"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 36,
+   "texts": [
+    "tch"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 38,
+   "texts": [
+    "ch",
+    "tch"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 39,
+   "texts": [
+    "j"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 40,
+   "texts": [
+    "_ge",
+    "cage"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 41,
+   "texts": [
+    "dge"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 43,
+   "texts": [
+    "j",
+    "_ge",
+    "dge"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 55,
+   "texts": [
+    "tch"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 57,
+   "texts": [
+    "ch",
+    "tch"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 58,
+   "texts": [
+    "dge"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 60,
+   "texts": [
+    "j",
+    "_ge",
+    "dge"
+   ],
+   "notes": ""
+  }
+ ],
+ "read_words": [
+  "hatch",
+  "badge",
+  "match",
+  "ditch",
+  "patch",
+  "stretch",
+  "ridge",
+  "ledge",
+  "bridge",
+  "trudge",
+  "fridge"
+ ],
+ "review_words": [
+  "match",
+  "switch",
+  "fudge",
+  "pledge"
+ ],
+ "irregular_review": [
+  {
+   "word": "woman",
+   "notes": "Lesson 69+\nO represents the /oo/ sound.\nA represents the /ǝ/ sound.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "women",
+   "notes": "Lesson 69+\nO represents the /ĭ/ sound.\nE represents the /ǝ/ sound.\n\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "move",
+   "notes": "Lesson 70+\nO represents the /ū/ sound.\nThe final E is silent but does not follow the long vowel VCe pattern.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  }
+ ],
+ "irregular_teach": [],
+ "sentences": [
+  "I see a smudge on my chin.",
+  "They have a patch that will match.",
+  "Mitch moved back home because he missed his friends."
+ ],
+ "passage_title": "Robin and Stitch",
+ "passage": [
+  "Robin is walking Stitch the bulldog. They walk to a patch of mud beside a big ditch. Robin tosses a stick and Stitch dashes to fetch it. The stick lands on\nthe edge of the mud. “Oh no! That is a bad place for the stick to land,” thinks Robin.",
+  "“Stop Stitch!” she yells. Stitch stops and does not budge. Robin walks up to the edge and grabs the stick. “Good job Stitch! I got your stick. Do you want it back?” Robin tosses the stick and Stitch\njumps to catch it."
+ ],
+ "word_work": [],
+ "tables": [],
+ "placement": [
+  [
+   "chip",
+   "chin",
+   "ch"
+  ],
+  [
+   "such",
+   "rich",
+   "ch"
+  ],
+  [
+   "catch",
+   "pitch",
+   "tch"
+  ],
+  [
+   "dodge",
+   "bridge",
+   "dge"
+  ],
+  [
+   "catch",
+   "pitch",
+   "tch"
+  ],
+  [
+   "dodge",
+   "bridge",
+   "dge"
+  ]
+ ]
+}

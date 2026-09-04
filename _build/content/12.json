@@ -1,0 +1,120 @@
+{
+ "id": "12",
+ "source": "12__12_Slides_UFLIFoundations_AUS.pptx",
+ "nslides": 71,
+ "title": "Lesson 12 o /ŏ/",
+ "concept": "o /ŏ/",
+ "graphemes": [
+  "a",
+  "n",
+  "m",
+  "i",
+  "f",
+  "p",
+  "t",
+  "s"
+ ],
+ "concept_slides": [
+  {
+   "n": 24,
+   "texts": [
+    "o"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 27,
+   "texts": [
+    "o"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 43,
+   "texts": [
+    "o"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 46,
+   "texts": [
+    "o"
+   ],
+   "notes": ""
+  }
+ ],
+ "read_words": [
+  "on",
+  "pop",
+  "mop",
+  "not",
+  "top",
+  "tot"
+ ],
+ "review_words": [
+  "on",
+  "mop",
+  "not",
+  "top"
+ ],
+ "irregular_review": [
+  {
+   "word": "the",
+   "notes": "Lessons 1-45\nThe digraph TH has not been introduced yet.\nE represents the /ŭ/ or /ə/ sound depending on stress.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "I",
+   "notes": "Lessons 3-65\n*Temporarily irregular\nI /ī/ has not been introduced yet. \nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "and",
+   "notes": "Lessons 11-12\n*Temporarily irregular \nD /d/ has not been introduced yet. \nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "a",
+   "notes": "Lesson 7+\nA as a word can be pronounced /ā/ or /ŭ/.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "is",
+   "notes": "Lessons 9-20\n*Temporarily irregular\nS /z/ has not been introduced yet. \nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "as",
+   "notes": "Lessons 11-20\n*Temporarily irregular\nS /z/ has not been introduced yet. \nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  }
+ ],
+ "irregular_teach": [],
+ "sentences": [
+  "Is the fan on?",
+  "Pop and I sat.",
+  "The mop is not on the mat."
+ ],
+ "passage_title": "Tom and the Fan",
+ "passage": [
+  "Tom is a man. \nTom is not a fan. \nA fan is not a man.",
+  "Tom is on the mat. \nThe fan is on the mat. \nTom and the fan fit on the mat."
+ ],
+ "word_work": [],
+ "tables": [],
+ "placement": [
+  [
+   "top",
+   "mop",
+   "o"
+  ],
+  [
+   "on",
+   "o"
+  ],
+  [
+   "top",
+   "mop",
+   "o"
+  ],
+  [
+   "on",
+   "o"
+  ]
+ ]
+}

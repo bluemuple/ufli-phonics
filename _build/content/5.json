@@ -1,0 +1,98 @@
+{
+ "id": "5",
+ "source": "5__5_Slides_UFLIFoundations.pptx",
+ "nslides": 56,
+ "title": "Lesson 5 VC & CVC Words",
+ "concept": "VC & CVC Words",
+ "graphemes": [
+  "t",
+  "s",
+  "m",
+  "a"
+ ],
+ "concept_slides": [
+  {
+   "n": 23,
+   "texts": [
+    "a b c d e f g h i\nj k l m n o p q r\ns t u v w x y z"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 24,
+   "texts": [
+    "a b c d e f g h i\nj k l m n o p q r\ns t u v w x y z"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 25,
+   "texts": [
+    "a b c d e f g h i\nj k l m n o p q r\ns t u v w x y z"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 26,
+   "texts": [
+    "a b c d e f g h i\nj k l m n o p q r\ns t u v w x y z"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 35,
+   "texts": [
+    "a b c d e f g h i\nj k l m n o p q r\ns t u v w x y z"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 36,
+   "texts": [
+    "a b c d e f g h i\nj k l m n o p q r\ns t u v w x y z"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 37,
+   "texts": [
+    "a b c d e f g h i\nj k l m n o p q r\ns t u v w x y z"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 38,
+   "texts": [
+    "a b c d e f g h i\nj k l m n o p q r\ns t u v w x y z"
+   ],
+   "notes": ""
+  }
+ ],
+ "read_words": [],
+ "review_words": [],
+ "irregular_review": [
+  {
+   "word": "the",
+   "notes": "Lessons 1-45\nThe digraph TH has not been introduced yet.\nE represents the /ŭ/ or /ə/ sound depending on stress.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "I",
+   "notes": "Lessons 3-65\n*Temporarily irregular\nI /ī/ has not been introduced yet. \nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  }
+ ],
+ "irregular_teach": [
+  {
+   "word": "and",
+   "notes": "Lessons 5-10\n*Temporarily irregular \nNasalized A (an) has not been introduced yet.\nN /n/ is not introduced until Lesson 9. \nD /d/ is not introduced until Lesson 13. \nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  }
+ ],
+ "sentences": [
+  "I sat.",
+  "I sat at the mat."
+ ],
+ "passage_title": "",
+ "passage": [],
+ "word_work": [],
+ "tables": [],
+ "placement": []
+}

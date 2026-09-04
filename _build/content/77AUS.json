@@ -1,0 +1,162 @@
+{
+ "id": "77AUS",
+ "source": "77AUS__77AUS_Slides_UFLIFoundations-AUS.pptx",
+ "nslides": 81,
+ "title": "Lesson 77 AUS a /ar/",
+ "concept": "a /ar/",
+ "graphemes": [
+  "a",
+  "r",
+  "ar",
+  "y",
+  "dge",
+  "g",
+  "tch",
+  "ch",
+  "-ed",
+  "c",
+  "i",
+  "o",
+  "e",
+  "u",
+  "nk",
+  "ng",
+  "ph",
+  "th"
+ ],
+ "concept_slides": [
+  {
+   "n": 34,
+   "texts": [
+    "ar",
+    "bark",
+    "far",
+    "arm"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 35,
+   "texts": [
+    "a"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 38,
+   "texts": [
+    "ar",
+    "a"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 50,
+   "texts": [
+    "ar",
+    "bark",
+    "far",
+    "arm"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 51,
+   "texts": [
+    "a"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 54,
+   "texts": [
+    "ar",
+    "a"
+   ],
+   "notes": ""
+  }
+ ],
+ "read_words": [
+  "ask",
+  "class",
+  "mast",
+  "asked",
+  "gasp",
+  "fast",
+  "mask",
+  "past",
+  "last",
+  "grasp",
+  "grass",
+  "flask"
+ ],
+ "review_words": [
+  "ask",
+  "class",
+  "past",
+  "raft"
+ ],
+ "irregular_review": [
+  {
+   "word": "four",
+   "notes": "Lesson 73+\nOUR represents the /or/ sound.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "fourth",
+   "notes": "Lesson 73+\nOUR represents the /or/ sound.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "forty",
+   "notes": "Lesson 74+\nAfter OR /or/ in Lesson 78, this spelling is not irregular, but it can be confusing once a student has learned to spell FOUR and FOURTH.  FORTY is often misspelled FOURTY.\nAlso, T may be pronounced /d/ depending on dialect. \nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "people",
+   "notes": "Lesson 75+\nEO represents the /ē/ sound.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "pretty",
+   "notes": "Lesson 77+\nE represents the /ĭ/ sound. \nTT may be pronounced /d/ depending on dialect. \nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  }
+ ],
+ "irregular_teach": [
+  {
+   "word": "half",
+   "notes": "Lesson 77AUS+\nAL represents the /ar/ sound.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  }
+ ],
+ "sentences": [
+  "My class had a party.",
+  "Sam and her dad went rafting.",
+  "I asked to be last to pick my mask."
+ ],
+ "passage_title": "A Flamingo Party",
+ "passage": [
+  "At half-past two, we went to the park close to home. It was full of lush, green grass and very tall trees. By the vast lake, there were pretty, pink birds. “Flamingos!” I called out.  \n\nThe flock moved very fast across the grass. “What are they doing?” I asked.",
+  "Mum said, \"It looks like they are having a party. What a blast!\" \nThey stood on one leg and used their long necks to find food. Dad told me flamingos can’t fly. Silly Dad! \nThen I went to the swings and slid on the slide.",
+  "“Oh no! It is time to go,” said Dad. \nAt last, I waved to the flamingos and told them I would come back soon."
+ ],
+ "word_work": [],
+ "tables": [],
+ "placement": [
+  [
+   "bath",
+   "last",
+   "a"
+  ],
+  [
+   "ask",
+   "after",
+   "a"
+  ],
+  [
+   "bath",
+   "last",
+   "a"
+  ],
+  [
+   "ask",
+   "after",
+   "a"
+  ]
+ ]
+}

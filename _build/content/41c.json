@@ -1,0 +1,410 @@
+{
+ "id": "41c",
+ "source": "41c__41c_Slides_UFLIFoundations_AUS.pptx",
+ "nslides": 131,
+ "title": "Lesson 41c Short Vowels Advanced 2",
+ "concept": "Short Vowels Advanced 2",
+ "graphemes": [
+  "o",
+  "i",
+  "a",
+  "m",
+  "s",
+  "t",
+  "p",
+  "f",
+  "n",
+  "d",
+  "c",
+  "g",
+  "b",
+  "k",
+  "h",
+  "r",
+  "l",
+  "w",
+  "j",
+  "y",
+  "x",
+  "qu",
+  "v",
+  "z"
+ ],
+ "concept_slides": [
+  {
+   "n": 41,
+   "texts": [
+    "t r u s t"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 42,
+   "texts": [
+    "s p e n t"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 43,
+   "texts": [
+    "s p l i t"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 44,
+   "texts": [
+    "a"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 47,
+   "texts": [
+    "am",
+    "an",
+    "stamp",
+    "stand"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 48,
+   "texts": [
+    "i"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 51,
+   "texts": [
+    "o"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 54,
+   "texts": [
+    "u"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 57,
+   "texts": [
+    "e"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 60,
+   "texts": [
+    "a",
+    "e",
+    "i",
+    "o",
+    "u"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 73,
+   "texts": [
+    "t r u s t"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 74,
+   "texts": [
+    "s p e n t"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 75,
+   "texts": [
+    "s p l i t"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 76,
+   "texts": [
+    "a"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 79,
+   "texts": [
+    "am",
+    "an",
+    "stamp",
+    "stand"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 80,
+   "texts": [
+    "i"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 83,
+   "texts": [
+    "o"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 86,
+   "texts": [
+    "u"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 89,
+   "texts": [
+    "e"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 92,
+   "texts": [
+    "a",
+    "e",
+    "i",
+    "o",
+    "u"
+   ],
+   "notes": ""
+  }
+ ],
+ "read_words": [
+  "bland",
+  "scrub",
+  "grand",
+  "stand",
+  "swift",
+  "twist",
+  "frost",
+  "stunt",
+  "crust",
+  "spend",
+  "blend",
+  "scrap",
+  "strip",
+  "sprint"
+ ],
+ "review_words": [
+  "stand",
+  "print",
+  "frost",
+  "trust",
+  "slept"
+ ],
+ "irregular_review": [
+  {
+   "word": "the",
+   "notes": "Lessons 1-45\nThe digraph TH has not been introduced yet.\nE represents the /ŭ/ or /ə/ sound depending on stress.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "I",
+   "notes": "Lessons 3-65\n*Temporarily irregular\nI /ī/ has not been introduced yet. \nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "a",
+   "notes": "Lesson 7+\nA as a word can be pronounced /ā/ or /ŭ/.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "said",
+   "notes": "Lesson 13+\nAI represents the /ĕ/ sound.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "to",
+   "notes": "Lesson 15+\nO represents the /ū/ sound.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "do",
+   "notes": "Lesson 15+\nO represents the /ū/ sound.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "of",
+   "notes": "Lesson 17+\nO represents the /ŏ/ sound.\nF represents the /v/ sound.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "see",
+   "notes": "Lessons 19-84\n*Temporarily irregular \nEE /ē/ has not been introduced yet. \nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "he",
+   "notes": "Lessons 23-65\n*Temporarily irregular \nE /ē/ has not been introduced yet.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "be",
+   "notes": "Lessons 23-65\n*Temporarily irregular \nE /ē/ has not been introduced yet.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "me",
+   "notes": "Lessons 23-65\n*Temporarily irregular \nE /ē/ has not been introduced yet.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "look",
+   "notes": "Lessons 26-88\n*Temporarily irregular \nOO /oo/ has not been introduced yet. \nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "book",
+   "notes": "Lessons 26-88\n*Temporarily irregular \nOO /oo/ has not been introduced yet. \nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "are",
+   "notes": "Lessons 27-76\nAR /ar/ has not been introduced yet.\nThe final E is silent but does not follow the long vowel VCe pattern. \nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "was",
+   "notes": "Lesson 29+\nA represents the /ŏ/ sound.​\nS /z/ has already been introduced. \nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "you",
+   "notes": "Lessons 31-114\n*Temporarily irregular\nOU /ū/ has not been introduced yet. \nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "what",
+   "notes": "Lessons 33-49\nWH /w/ has not been introduced yet.\nA represents the /ŭ/ sound or the /ŏ/ sound, depending on dialect.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "have",
+   "notes": "Lessons 33-61\n*Temporarily irregular\nThe final E is silent but does not follow the long vowel VCe pattern. \nThe silent E is there because English words can not end with the letter V.\n\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "ask",
+   "notes": "Lessons 22-77AUS\n*Temporarily irregular \nA /ar/ has not been introduced yet.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "fast",
+   "notes": "Lessons 22-77AUS\n*Temporarily irregular \nA /ar/ has not been introduced yet.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  }
+ ],
+ "irregular_teach": [],
+ "sentences": [
+  "Can you get the crust?",
+  "Stand next to the plants.",
+  "Stan and Ben are the best at sprints."
+ ],
+ "passage_title": "A Plant Pot From Us",
+ "passage": [
+  "Brent and Clint must get Mum a gift. \nThe kids went to Pam’s Plant Stand. \nThe gift Brent and Clint get is a plant pot.",
+  "Brent helps Clint cut ten red dots. \nNext, Clint helps Brent stick six red spots on the pot.\nThe kids set the plant pot in a big gift box.",
+  "The plant pot Brent and Clint got is grand.\n“Yes!” said Mum, “This is the best gift. \nYou are the best kids.”"
+ ],
+ "word_work": [],
+ "tables": [],
+ "placement": [
+  [
+   "splat",
+   "scrap",
+   "a"
+  ],
+  [
+   "at",
+   "as",
+   "a"
+  ],
+  [
+   "swift",
+   "crisp",
+   "i"
+  ],
+  [
+   "is",
+   "in",
+   "i"
+  ],
+  [
+   "frost",
+   "stomp",
+   "o"
+  ],
+  [
+   "o",
+   "on",
+   "ox"
+  ],
+  [
+   "trust",
+   "slump",
+   "u"
+  ],
+  [
+   "up",
+   "us",
+   "u"
+  ],
+  [
+   "spent",
+   "blend",
+   "e"
+  ],
+  [
+   "elf",
+   "end",
+   "e"
+  ],
+  [
+   "splat",
+   "scrap",
+   "a"
+  ],
+  [
+   "at",
+   "as",
+   "a"
+  ],
+  [
+   "swift",
+   "crisp",
+   "i"
+  ],
+  [
+   "is",
+   "in",
+   "i"
+  ],
+  [
+   "frost",
+   "stomp",
+   "o"
+  ],
+  [
+   "o",
+   "on",
+   "ox"
+  ],
+  [
+   "trust",
+   "slump",
+   "u"
+  ],
+  [
+   "up",
+   "us",
+   "u"
+  ],
+  [
+   "spent",
+   "blend",
+   "e"
+  ],
+  [
+   "elf",
+   "end",
+   "e"
+  ]
+ ]
+}

@@ -1,0 +1,238 @@
+{
+ "id": "86",
+ "source": "86__86_Slides_UFLIFoundations_AUS.pptx",
+ "nslides": 93,
+ "title": "Lesson 86 oa, ow, oe /ō/",
+ "concept": "oa, ow, oe /ō/",
+ "graphemes": [
+  "ee",
+  "ea",
+  "ey",
+  "ai",
+  "ay",
+  "ir",
+  "ur",
+  "er",
+  "or",
+  "ore",
+  "a",
+  "ar",
+  "y",
+  "dge",
+  "g",
+  "tch",
+  "ch",
+  "u"
+ ],
+ "concept_slides": [
+  {
+   "n": 35,
+   "texts": [
+    "e",
+    "b",
+    "o",
+    "n",
+    "o_e"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 36,
+   "texts": [
+    "o",
+    "Open Syllable",
+    "cozy"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 37,
+   "texts": [
+    "Vowel Team",
+    "2 or more letters that work together to make 1 sound."
+   ],
+   "notes": ""
+  },
+  {
+   "n": 38,
+   "texts": [
+    "oa"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 41,
+   "texts": [
+    "ow"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 44,
+   "texts": [
+    "oe"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 46,
+   "texts": [
+    "o_e",
+    "o",
+    "ow",
+    "oe",
+    "oa"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 58,
+   "texts": [
+    "Vowel Team",
+    "2 or more letters that work together to make 1 sound."
+   ],
+   "notes": ""
+  },
+  {
+   "n": 59,
+   "texts": [
+    "oa"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 62,
+   "texts": [
+    "ow"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 65,
+   "texts": [
+    "oe"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 67,
+   "texts": [
+    "o_e",
+    "o",
+    "ow",
+    "oe",
+    "oa"
+   ],
+   "notes": ""
+  }
+ ],
+ "read_words": [
+  "road",
+  "grow",
+  "toe",
+  "window",
+  "boat",
+  "toad",
+  "coast",
+  "coach",
+  "low",
+  "show",
+  "own",
+  "grown",
+  "foe",
+  "yellow"
+ ],
+ "review_words": [
+  "road",
+  "grow",
+  "yellow",
+  "toe"
+ ],
+ "irregular_review": [
+  {
+   "word": "today",
+   "notes": "Lesson 84+\nO represents the /ū/ sound or the /ə/ sound depending on stress and dialect. \nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "above",
+   "notes": "Lesson 85+\nA represents the /ə/ or the /ŭ/ sound, depending on stress.\nO represents the /ŭ/ sound.\nThe final E is silent but does not follow the long vowel VCe pattern. In this case, the silent E is there because English words do not end in V.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "among",
+   "notes": "Lesson 85+\nA represents the /ə/ or the /ŭ/ sound, depending on stress.\nO represents the /ŭ/ sound.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  }
+ ],
+ "irregular_teach": [
+  {
+   "word": "again",
+   "notes": "Lesson 86+\nThe first A represents the /ə/ or the /ŭ/ sound, depending on stress.\nAI represents the /ĕ/ or /ĭ/ sound, depending on dialect.\nIn some dialects, the AI in again is pronounced /ā/. In this case, this part of the word would not be irregular. \nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "against",
+   "notes": "Lesson 86+\nThe first A represents the /ə/ or the /ŭ/ sound, depending on stress.\nAI represents the /ĕ/ or /ĭ/ sound, depending on dialect.\nIn some dialects, the AI in against is pronounced /ā/. In this case, this part of the word would not be irregular. \nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  }
+ ],
+ "sentences": [
+  "He will row the boat to the coast again.",
+  "Take your coat with you, it is very cold today.",
+  "The coach asks Joe to play a game against Tom."
+ ],
+ "passage_title": "A Trip to the Coast",
+ "passage": [
+  "Harvey owns a big yellow boat. Every summer, he takes the boat on a trip to the coast. This time, he wants to bring his friends, Layla and Joe, with him. There is just one problem, Layla can not swim! Layla must be able to swim if she wants to go on the boat.",
+  "Layla started swim lessons to grow her skills. She even got a swim coach to teach her. She started slow, but Joe helped her get better. After four weeks of lessons, Layla could swim! Now she could paddle, kick, and float all by herself.",
+  "Layla showed Harvey her skills. Harvey was thrilled! The next day, Harvey and Layla and Joe set sail to the coast."
+ ],
+ "word_work": [],
+ "tables": [],
+ "placement": [
+  [
+   "boat",
+   "road",
+   "oa"
+  ],
+  [
+   "oat",
+   "oak",
+   "oa"
+  ],
+  [
+   "show",
+   "grow",
+   "ow"
+  ],
+  [
+   "grown",
+   "flown",
+   "ow"
+  ],
+  [
+   "toe",
+   "oe"
+  ],
+  [
+   "boat",
+   "road",
+   "oa"
+  ],
+  [
+   "oat",
+   "oak",
+   "oa"
+  ],
+  [
+   "show",
+   "grow",
+   "ow"
+  ],
+  [
+   "grown",
+   "flown",
+   "ow"
+  ],
+  [
+   "toe",
+   "oe"
+  ]
+ ]
+}

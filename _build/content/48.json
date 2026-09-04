@@ -1,0 +1,182 @@
+{
+ "id": "48",
+ "source": "48__48_Slides_UFLIFoundations_AUS.pptx",
+ "nslides": 83,
+ "title": "Lesson 48 ch /ch/",
+ "concept": "ch /ch/",
+ "graphemes": [
+  "th",
+  "sh",
+  "ck",
+  "ff",
+  "f",
+  "ll",
+  "l",
+  "ss",
+  "zz",
+  "z",
+  "s",
+  "u",
+  "e",
+  "i",
+  "o",
+  "a"
+ ],
+ "concept_slides": [
+  {
+   "n": 32,
+   "texts": [
+    "Consonant Digraph",
+    "When 2 consonants come together \nto make 1 sound."
+   ],
+   "notes": ""
+  },
+  {
+   "n": 33,
+   "texts": [
+    "ck",
+    "sh",
+    "th"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 34,
+   "texts": [
+    "c",
+    "h"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 35,
+   "texts": [
+    "ch"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 38,
+   "texts": [
+    "ch"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 50,
+   "texts": [
+    "Consonant Digraph",
+    "When 2 consonants come together \nto make 1 sound."
+   ],
+   "notes": ""
+  },
+  {
+   "n": 51,
+   "texts": [
+    "c",
+    "h"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 52,
+   "texts": [
+    "ch"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 55,
+   "texts": [
+    "ch"
+   ],
+   "notes": ""
+  }
+ ],
+ "read_words": [
+  "chop",
+  "much",
+  "chip",
+  "chat",
+  "check",
+  "inch",
+  "such",
+  "rich",
+  "lunch",
+  "bench",
+  "chest"
+ ],
+ "review_words": [
+  "chat",
+  "such",
+  "much",
+  "rich"
+ ],
+ "irregular_review": [
+  {
+   "word": "she",
+   "notes": "Lessons 45-65\n*Temporarily irregular \nE /ē/ has not been introduced yet.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "we",
+   "notes": "Lessons 45-65\n*Temporarily irregular \nE /ē/ has not been introduced yet.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "they",
+   "notes": "Lessons 46-113\n*Temporarily irregular\nEY /ā/ has not been introduced yet. \nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "their",
+   "notes": "Lesson 46+\nEIR represents the /air/ sound.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "were",
+   "notes": "Lessons 47-79\nER /er/ has not been introduced yet. \nThe final E is silent but does not follow the long vowel VCe pattern. \nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  }
+ ],
+ "irregular_teach": [
+  {
+   "word": "talk",
+   "notes": "Lesson 48+\nAL represents the /ŏ/ or /or/ sound.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "walk",
+   "notes": "Lesson 48+\nAL represents the /ŏ/ or /or/ sound.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  }
+ ],
+ "sentences": [
+  "Chuck and Beth had lunch.",
+  "Did Thad chat with Chet?",
+  "I had such a fun talk with Ben."
+ ],
+ "passage_title": "Chips and Dip",
+ "passage": [
+  "Chuck and Rich are at lunch. \nChuck has chips in his lunchbox but no dip. \nRich has dip in his lunchbox but no chips. \nChuck looks at Rich.",
+  "Rich looks at Chuck. \nWhat can they do? \nChuck dumps his chips on a dish. \n“Rich, do you want chips?” Chuck asks. \n“Yes I do!” said Rich.",
+  "Rich slid his dip next to the dish. \n“Chuck, do you want dip?” Rich asks. \n“Yes I do!” said Chuck. \nThey chill and chat and munch on chips and dip. \nYum! Yum! Yum!"
+ ],
+ "word_work": [],
+ "tables": [],
+ "placement": [
+  [
+   "chip",
+   "chin",
+   "ch"
+  ],
+  [
+   "such",
+   "rich",
+   "ch"
+  ],
+  [
+   "chip",
+   "chin",
+   "ch"
+  ],
+  [
+   "such",
+   "rich",
+   "ch"
+  ]
+ ]
+}

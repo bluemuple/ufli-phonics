@@ -1,0 +1,208 @@
+{
+ "id": "81",
+ "source": "81__81_Slides_UFLIFoundations_AUS.pptx",
+ "nslides": 91,
+ "title": "Lesson 81 ir, ur /er/",
+ "concept": "ir, ur /er/",
+ "graphemes": [
+  "er",
+  "or",
+  "ore",
+  "a",
+  "ar",
+  "y",
+  "dge",
+  "g",
+  "tch",
+  "ch",
+  "c",
+  "i",
+  "o",
+  "e",
+  "u",
+  "nk",
+  "ng"
+ ],
+ "concept_slides": [
+  {
+   "n": 34,
+   "texts": [
+    "ir",
+    "ur",
+    "er"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 35,
+   "texts": [
+    "ir"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 38,
+   "texts": [
+    "ur"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 42,
+   "texts": [
+    "er",
+    "ir",
+    "ur"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 55,
+   "texts": [
+    "ir",
+    "ur",
+    "er"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 56,
+   "texts": [
+    "ir"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 59,
+   "texts": [
+    "ur"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 63,
+   "texts": [
+    "er",
+    "ir",
+    "ur"
+   ],
+   "notes": ""
+  }
+ ],
+ "read_words": [
+  "turn",
+  "dirty",
+  "girl",
+  "bird",
+  "third",
+  "hurt",
+  "burn",
+  "nurse",
+  "churn",
+  "thirty",
+  "turtle"
+ ],
+ "review_words": [
+  "girl",
+  "first",
+  "hurt",
+  "turn"
+ ],
+ "irregular_review": [
+  {
+   "word": "half",
+   "notes": "Lesson 77AUS+\nAL represents the /ar/ sound.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "nothing",
+   "notes": "Lesson 78+\nO represents the /ŭ/ sound.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "other",
+   "notes": "Lesson 80+\nO represents the /ŭ/ sound.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "another",
+   "notes": "Lesson 80+\nA represents the /ə/ sound or the /ŭ/ sound, depending on stress.\nO represents the /ŭ/ sound.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "water",
+   "notes": "Lesson 80 AUS+\nA represents the /or/ sound.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  }
+ ],
+ "irregular_teach": [
+  {
+   "word": "mother",
+   "notes": "Lesson 81+\nO represents the /ŭ/ sound.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "brother",
+   "notes": "Lesson 81+\nO represents the /ŭ/ sound.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  }
+ ],
+ "sentences": [
+  "There is some dirt on her shirt.",
+  "Her brother is done with first grade!",
+  "My mother has a black skirt and a pink purse."
+ ],
+ "passage_title": "A Turtle can Surf!",
+ "passage": [
+  "Irma the turtle loved to surf. Her mother, Shirly, was the first girl surfer in their turtle village, and Irma wanted to be just like her. Every morning Irma would rush to the shoreline.",
+  "When she was surfing, Irma would do flips and turns. She would twirl like a windmill. All the other animals were\nshocked that a girl turtle could surf so well! Irma would just yell, “A girl can do anything!” just like her mother told her.",
+  "Irma would surf until sunset. When the sun was no longer in the sky, she would skip back home. Once she was home, she would curl up in her turtle bed and relax."
+ ],
+ "word_work": [],
+ "tables": [],
+ "placement": [
+  [
+   "girl",
+   "bird",
+   "ir"
+  ],
+  [
+   "sir",
+   "stir",
+   "ir"
+  ],
+  [
+   "turn",
+   "hurt",
+   "ur"
+  ],
+  [
+   "urn",
+   "urge",
+   "ur"
+  ],
+  [
+   "fur",
+   "blur",
+   "ur"
+  ],
+  [
+   "girl",
+   "bird",
+   "ir"
+  ],
+  [
+   "sir",
+   "stir",
+   "ir"
+  ],
+  [
+   "turn",
+   "hurt",
+   "ur"
+  ],
+  [
+   "urn",
+   "urge",
+   "ur"
+  ],
+  [
+   "fur",
+   "blur",
+   "ur"
+  ]
+ ]
+}

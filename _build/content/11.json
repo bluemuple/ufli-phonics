@@ -1,0 +1,194 @@
+{
+ "id": "11",
+ "source": "11__11_Slides_UFLIFoundations.pptx",
+ "nslides": 76,
+ "title": "Lesson 11 Nasalized A",
+ "concept": "Nasalized A",
+ "graphemes": [
+  "n",
+  "i",
+  "f",
+  "p",
+  "t",
+  "s",
+  "m",
+  "a"
+ ],
+ "concept_slides": [
+  {
+   "n": 24,
+   "texts": [
+    "a"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 25,
+   "texts": [
+    "am"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 26,
+   "texts": [
+    "Sam",
+    "Pam"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 27,
+   "texts": [
+    "I am Sam."
+   ],
+   "notes": ""
+  },
+  {
+   "n": 28,
+   "texts": [
+    "an"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 29,
+   "texts": [
+    "fan",
+    "tan"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 30,
+   "texts": [
+    "I eat an apple."
+   ],
+   "notes": ""
+  },
+  {
+   "n": 31,
+   "texts": [
+    "am",
+    "an"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 43,
+   "texts": [
+    "a"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 44,
+   "texts": [
+    "am"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 45,
+   "texts": [
+    "Sam",
+    "Pam"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 46,
+   "texts": [
+    "I am Sam."
+   ],
+   "notes": ""
+  },
+  {
+   "n": 47,
+   "texts": [
+    "an"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 48,
+   "texts": [
+    "fan",
+    "tan"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 49,
+   "texts": [
+    "I eat an apple."
+   ],
+   "notes": ""
+  },
+  {
+   "n": 50,
+   "texts": [
+    "am",
+    "an"
+   ],
+   "notes": ""
+  }
+ ],
+ "read_words": [
+  "am",
+  "Pam",
+  "an",
+  "fan",
+  "Sam",
+  "man",
+  "pan",
+  "tan"
+ ],
+ "review_words": [
+  "am",
+  "an",
+  "man",
+  "tan"
+ ],
+ "irregular_review": [
+  {
+   "word": "the",
+   "notes": "Lessons 1-45\nThe digraph TH has not been introduced yet.\nE represents the /ŭ/ or /ə/ sound depending on stress.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "I",
+   "notes": "Lessons 3-65\n*Temporarily irregular\nI /ī/ has not been introduced yet. \nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "and",
+   "notes": "Lessons 11-12\n*Temporarily irregular \nD /d/ has not been introduced yet. \nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "a",
+   "notes": "Lesson 7+\nA as a word can be pronounced /ā/ or /ŭ/.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "is",
+   "notes": "Lessons 9-20\n*Temporarily irregular\nS /z/ has not been introduced yet. \nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  }
+ ],
+ "irregular_teach": [
+  {
+   "word": "as",
+   "notes": "Lessons 11-20\n*Temporarily irregular\nS /z/ has not been introduced yet. \nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  }
+ ],
+ "sentences": [
+  "It is a fan.",
+  "It is an ant.",
+  "Tam and I sit."
+ ],
+ "passage_title": "Sam and Pam",
+ "passage": [
+  "Sam is tan. \nPam is tan. \nPam is as tan as Sam. \nSam and Pam sat on the mat.",
+  "Sam and Pam tap the mat. \nSam and Pam tap and tap and tap. \nSam and Pam nap."
+ ],
+ "word_work": [],
+ "tables": [],
+ "placement": []
+}

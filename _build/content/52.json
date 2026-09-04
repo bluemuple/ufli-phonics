@@ -1,0 +1,156 @@
+{
+ "id": "52",
+ "source": "52__52_Slides_UFLIFoundations_AUS.pptx",
+ "nslides": 81,
+ "title": "Lesson 52 n /ŋ/ (as in nk)",
+ "concept": "n /ŋ/ (as in nk)",
+ "graphemes": [
+  "ng",
+  "wh",
+  "ph",
+  "ch",
+  "th",
+  "sh",
+  "ck",
+  "ff",
+  "ll",
+  "ss",
+  "zz",
+  "s",
+  "u",
+  "e",
+  "i",
+  "o",
+  "a"
+ ],
+ "concept_slides": [
+  {
+   "n": 33,
+   "texts": [
+    "ng"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 34,
+   "texts": [
+    "n",
+    "k"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 36,
+   "texts": [
+    "ng",
+    "n"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 48,
+   "texts": [
+    "ng"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 49,
+   "texts": [
+    "n",
+    "k"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 51,
+   "texts": [
+    "ng",
+    "n"
+   ],
+   "notes": ""
+  }
+ ],
+ "read_words": [
+  "bank",
+  "think",
+  "sank",
+  "pink",
+  "stink",
+  "drink",
+  "frank",
+  "trunk",
+  "prank"
+ ],
+ "review_words": [
+  "think",
+  "thank",
+  "honk",
+  "drink"
+ ],
+ "irregular_review": [
+  {
+   "word": "walk",
+   "notes": "Lesson 48+\nAL represents the /ŏ/ or /or/ sound.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "talk",
+   "notes": "Lesson 48+\nAL represents the /ŏ/ or /or/ sound.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "could",
+   "notes": "Lesson 50+\nOUL represents the /oo/ sound.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "would",
+   "notes": "Lesson 50+\nOUL represents the /oo/ sound.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "should",
+   "notes": "Lesson 50+\nOUL represents the /oo/ sound.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "or",
+   "notes": "Lessons 51-77\n*Temporarily irregular\nOR /or/ has not been introduced yet. \nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "for",
+   "notes": "Lessons 51-77\n*Temporarily irregular\nOR /or/ has not been introduced yet. \nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  }
+ ],
+ "irregular_teach": [
+  {
+   "word": "there",
+   "notes": "Lesson 52+\nERE represents the /air/ sound.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "where",
+   "notes": "Lesson 52+\nERE represents the /air/ sound.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  }
+ ],
+ "sentences": [
+  "There are things in the trunk.",
+  "There is a lot of junk in the tank.",
+  "Where is Frank? I have to thank him!"
+ ],
+ "passage_title": "Stink in the Bank",
+ "passage": [
+  "Hank has a job at the bank. \nWhen Hank gets to the bank, he sniffs a bad smell. \n“What is that smell?” Hank thinks. \n“Is it a skunk?” \nHe sniffs his desk. “No, it’s not that.”",
+  "He checks the fish tank. \n“No, this is not what stinks.” \nHe walks to the back of the bank. \nWhen he gets to the back, he sees the small bin. \n“Oh no!” Hank yells, “I left all the stuff in the bin.”",
+  "Hank sniffs the bin. \n“Yuck!” he yells, “that’s what stinks!” \nHank brings the small bin to the big bin and slams the lid shut. \nHank is glad he got rid of the stink."
+ ],
+ "word_work": [],
+ "tables": [],
+ "placement": [
+  [
+   "pink",
+   "sunk",
+   "nk"
+  ],
+  [
+   "pink",
+   "sunk",
+   "nk"
+  ]
+ ]
+}

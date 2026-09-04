@@ -1,0 +1,290 @@
+{
+ "id": "38a",
+ "source": "38a__38a_Slides_UFLIFoundations_AUS.pptx",
+ "nslides": 103,
+ "title": "Lesson 38a Short A, I, O Review",
+ "concept": "Short A, I, O Review",
+ "graphemes": [
+  "m",
+  "s",
+  "t",
+  "p",
+  "f",
+  "n",
+  "d",
+  "c",
+  "g",
+  "b",
+  "k",
+  "h",
+  "r",
+  "l",
+  "w",
+  "j",
+  "y",
+  "x",
+  "qu",
+  "v",
+  "z"
+ ],
+ "concept_slides": [
+  {
+   "n": 37,
+   "texts": [
+    "a",
+    "i",
+    "o"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 38,
+   "texts": [
+    "a"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 41,
+   "texts": [
+    "am",
+    "an",
+    "am",
+    "jam",
+    "an",
+    "can"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 42,
+   "texts": [
+    "i"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 45,
+   "texts": [
+    "o"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 48,
+   "texts": [
+    "a",
+    "i",
+    "o"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 60,
+   "texts": [
+    "a",
+    "i",
+    "o"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 61,
+   "texts": [
+    "a"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 64,
+   "texts": [
+    "am",
+    "an",
+    "am",
+    "jam",
+    "an",
+    "can"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 65,
+   "texts": [
+    "i"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 68,
+   "texts": [
+    "o"
+   ],
+   "notes": ""
+  },
+  {
+   "n": 71,
+   "texts": [
+    "a",
+    "i",
+    "o"
+   ],
+   "notes": ""
+  }
+ ],
+ "read_words": [
+  "at",
+  "map",
+  "is",
+  "him",
+  "on",
+  "job",
+  "sat",
+  "had",
+  "and",
+  "man",
+  "if",
+  "sit",
+  "his",
+  "six",
+  "not",
+  "got",
+  "lot",
+  "top"
+ ],
+ "review_words": [
+  "has",
+  "can",
+  "did",
+  "not"
+ ],
+ "irregular_review": [
+  {
+   "word": "the",
+   "notes": "Lessons 1-45\nThe digraph TH has not been introduced yet.\nE represents the /ŭ/ or /ə/ sound depending on stress.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "I",
+   "notes": "Lessons 3-65\n*Temporarily irregular\nI /ī/ has not been introduced yet. \nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "a",
+   "notes": "Lesson 7+\nA as a word can be pronounced /ā/ or /ŭ/.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "said",
+   "notes": "Lesson 13+\nAI represents the /ĕ/ sound.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "to",
+   "notes": "Lesson 15+\nO represents the /ū/ sound.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "do",
+   "notes": "Lesson 15+\nO represents the /ū/ sound.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "of",
+   "notes": "Lesson 17+\nO represents the /ŏ/ sound.\nF represents the /v/ sound.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "see",
+   "notes": "Lessons 19-84\n*Temporarily irregular \nEE /ē/ has not been introduced yet. \nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "he",
+   "notes": "Lessons 23-65\n*Temporarily irregular \nE /ē/ has not been introduced yet.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "be",
+   "notes": "Lessons 23-65\n*Temporarily irregular \nE /ē/ has not been introduced yet.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "me",
+   "notes": "Lessons 23-65\n*Temporarily irregular \nE /ē/ has not been introduced yet.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "ask",
+   "notes": "Lessons 22-77AUS\n*Temporarily irregular \nA /ar/ has not been introduced yet.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  },
+  {
+   "word": "fast",
+   "notes": "Lessons 22-77AUS\n*Temporarily irregular \nA /ar/ has not been introduced yet.\nThe white rectangle under the word may be used in editing mode. Cover the heart and square icons then reveal them one at a time during instruction."
+  }
+ ],
+ "irregular_teach": [],
+ "sentences": [
+  "I got a hat from the big box.",
+  "The man did not see the pin.",
+  "He said the dog is on the mat."
+ ],
+ "passage_title": "The Big Box",
+ "passage": [
+  "Nils, Jon, and Mag got a big box. \nWhat is in the box? \nNils looks in the box. \nNils sees a hat in the box.",
+  "Jon looks in the box. \nJon sees a map in the box. \nMag looks in the box. \nMag sees a book in the box.",
+  "Next, the kids see pots and pans and bats in the box. \nA lot is in this box!"
+ ],
+ "word_work": [],
+ "tables": [],
+ "placement": [
+  [
+   "cat",
+   "map",
+   "a"
+  ],
+  [
+   "at",
+   "as",
+   "a"
+  ],
+  [
+   "lip",
+   "him",
+   "i"
+  ],
+  [
+   "in",
+   "is",
+   "i"
+  ],
+  [
+   "hot",
+   "mop",
+   "o"
+  ],
+  [
+   "o",
+   "on",
+   "ox"
+  ],
+  [
+   "cat",
+   "map",
+   "a"
+  ],
+  [
+   "at",
+   "as",
+   "a"
+  ],
+  [
+   "lip",
+   "him",
+   "i"
+  ],
+  [
+   "in",
+   "is",
+   "i"
+  ],
+  [
+   "hot",
+   "mop",
+   "o"
+  ],
+  [
+   "o",
+   "on",
+   "ox"
+  ]
+ ]
+}
